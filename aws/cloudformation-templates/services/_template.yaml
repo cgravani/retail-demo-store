@@ -105,6 +105,12 @@ Parameters:
     Type: String
     Default: none
 
+  RetailEventBus:
+    Type: String
+
+  RetailEventSourceRoot:
+    Type: String
+
   ParameterPersonalizeEventTrackerId:
     Type: String
     Description: SSM parameter name for the Personalize event tracking ID
@@ -134,11 +140,6 @@ Parameters:
     Description: Parent stack name
 
 Resources:
-
-  RetailEventBus:
-    Type: AWS::Events::EventBus
-    Properties:
-      Name: RetailEventBus
 
   Roles:
     Type: AWS::CloudFormation::Stack
@@ -233,7 +234,8 @@ Resources:
         VpcId: !Ref VpcId
         ClusterName: !Ref ClusterName
         ServiceDiscoveryNamespace: !Ref ServiceDiscoveryNamespace
-        EnvEventBusArn: !GetAtt RetailEventBus.Arn
+        EnvEventBusArn: !Ref RetailEventBus
+        EnvEventSource: !Sub ${RetailEventSourceRoot}.CartsService
         ParameterPersonalizeEventTrackerId: !Ref ParameterPersonalizeEventTrackerId
         ParameterAmplitudeApiKey: !Ref ParameterAmplitudeApiKey
         ParameterOptimizelySdkKey: !Ref ParameterOptimizelySdkKey
@@ -252,9 +254,9 @@ Resources:
         ResourceBucket: !Ref ResourceBucket
         ResourceBucketKey: !Sub ${ResourceBucketRelativePath}aws-lambda/cart-event-consumer.zip
         Handler: consumer.handler
-        EventBusArn: !GetAtt RetailEventBus.Arn
+        EventBusArn: !Ref RetailEventBus
         EventDetailType: CartUpdatedEvent
-        EventSource: CartService
+        EventSource: !Sub ${RetailEventSourceRoot}.CartsService
 
   OrdersService:
     Type: AWS::CloudFormation::Stack

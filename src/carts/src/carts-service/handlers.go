@@ -19,6 +19,7 @@ import (
 )
 
 var EventBus = os.Getenv("EVENT_BUS")
+var EventSource = os.Getenv("EVENT_SOURCE")
 
 var eventBridgeClient *eventbridge.EventBridge
 
@@ -66,8 +67,6 @@ func sendEvent(eventType string, cart Cart) {
 	cartJsonBytes, _ := json.Marshal(cart)
 	cartJson := string(cartJsonBytes)
 
-	source := "CartService"
-
 	// write event to event bridge after successfully persisting cart
 	params := &eventbridge.PutEventsInput{
 		Entries: []*eventbridge.PutEventsRequestEntry{
@@ -75,7 +74,7 @@ func sendEvent(eventType string, cart Cart) {
 				EventBusName: &EventBus,
 				Detail: &cartJson,
 				DetailType: &eventType,
-				Source: &source,
+				Source: &EventSource,
 			},
 		},
 	}

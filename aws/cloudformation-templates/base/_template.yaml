@@ -169,6 +169,11 @@ Resources:
         Subnet1: !GetAtt VPC.Outputs.Subnet1
         Subnet2: !GetAtt VPC.Outputs.Subnet2
 
+  EventBridge:
+    Type: AWS::CloudFormation::Stack
+    Properties:
+      TemplateURL: !Sub https://s3.amazonaws.com/${ResourceBucket}/${ResourceBucketRelativePath}cloudformation-templates/base/eventbridge.yaml
+
   # SSM Parameters
   SSMParameters:
     Type: AWS::CloudFormation::Stack
@@ -207,6 +212,7 @@ Resources:
         CleanupBucketLambdaArn: !Ref CleanupBucketLambdaArn
 
 Outputs:
+
   UserPoolId:
     Description: Authentication Cognito User Pool Id.
     Value: !GetAtt Authentication.Outputs.UserPoolId
@@ -318,6 +324,14 @@ Outputs:
   ParameterSegmentWriteKey:
     Description: Segment write key Parameter
     Value: !GetAtt SSMParameters.Outputs.ParameterSegmentWriteKey
+
+  RetailEventBus:
+    Description: Event bus for services
+    Value: !GetAtt EventBridge.Outputs.RetailEventBus
+
+  RetailEventSourceRoot:
+    Description: Event bus for services
+    Value: !GetAtt EventBridge.Outputs.RetailEventSourceRoot
 
   WebUIBucketName:
     Description: S3 bucket for CloudFront distribution.

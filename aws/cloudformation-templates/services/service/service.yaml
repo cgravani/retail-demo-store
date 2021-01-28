@@ -46,6 +46,10 @@ Parameters:
     Type: String
     Default: none
 
+  EnvEventSource:
+    Type: String
+    Default: none
+
   EnvPersonalizeCampaignArn:
     Type: String
     Default: none
@@ -348,6 +352,8 @@ Resources:
               Value: !Ref ResourceBucket
             - Name: EVENT_BUS
               Value: !Ref EnvEventBusArn
+            - Name: EVENT_SOURCE
+              Value: !Ref EnvEventSource
             - Name: PARAMETER_IVS_VIDEO_CHANNEL_MAP
               Value: !Ref ParameterIVSVideoChannelMap
             - Name: USE_DEFAULT_IVS_STREAMS

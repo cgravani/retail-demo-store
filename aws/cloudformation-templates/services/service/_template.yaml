@@ -123,6 +123,10 @@ Parameters:
     Type: String
     Default: none
 
+  EnvEventSource:
+    Type: String
+    Default: none
+
   EnvPersonalizeCampaignArn:
     Type: String
     Default: none
@@ -269,6 +273,7 @@ Resources:
         ContainerImage: amazon/amazon-ecs-sample
         EnvPersonalizeCampaignArn: !Ref EnvPersonalizeCampaignArn
         EnvEventBusArn: !Ref EnvEventBusArn
+        EnvEventSource: !Ref EnvEventSource
         EnvPersonalizeSearchCampaignArn: !Ref EnvPersonalizeSearchCampaignArn
         EnvProductsServiceInternalUrl: !Ref EnvProductsServiceInternalUrl
         EnvProductsServiceInternalPort: !Ref EnvProductsServiceInternalPort

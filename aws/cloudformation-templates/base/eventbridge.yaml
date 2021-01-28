@@ -1,0 +1,112 @@
+AWSTemplateFormatVersion: 2010-09-09
+
+Description: Retail Store EventBridge
+
+Mappings:
+
+  Constants:
+    Events:
+      Source: retaildemostore
+
+Resources:
+
+  RetailDeliveryStreamBucket:
+    Type: AWS::S3::Bucket
+
+  RetailDeliveryStreamRole:
+    Type: AWS::IAM::Role
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: 2012-10-17
+        Statement:
+          - Sid: RetailDeliveryStreamRoleSid
+            Effect: Allow
+            Principal:
+              Service: firehose.amazonaws.com
+            Action: sts:AssumeRole
+            Condition:
+              StringEquals:
+                'sts:ExternalId': !Ref 'AWS::AccountId'
+      Policies:
+        - PolicyName: RetailDeliveryStreamRolePolicy
+          PolicyDocument:
+            Version: 2012-10-17
+            Statement:
+              - Effect: Allow
+                Action:
+                  - s3:AbortMultipartUpload
+                  - s3:GetBucketLocation
+                  - s3:GetObject
+                  - s3:ListBucket
+                  - s3:ListBucketMultipartUploads
+                  - s3:PutObject
+                Resource:
+                  - !GetAtt RetailDeliveryStreamBucket.Arn
+                  - !Sub ${RetailDeliveryStreamBucket.Arn}/*
+
+  RetailDeliveryStream:
+    Type: AWS::KinesisFirehose::DeliveryStream
+    Properties:
+      DeliveryStreamType: DirectPut
+      ExtendedS3DestinationConfiguration:
+        BucketARN: !GetAtt RetailDeliveryStreamBucket.Arn
+        BufferingHints:
+          IntervalInSeconds: 60
+          SizeInMBs: 50
+        CompressionFormat: UNCOMPRESSED
+        RoleARN: !GetAtt RetailDeliveryStreamRole.Arn
+
+  RetailEventBus:
+    Type: AWS::Events::EventBus
+    Properties:
+      Name: RetailEventBus
+
+  FirehoseTargetRuleRole:
+    Type: AWS::IAM::Role
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: 2012-10-17
+        Statement:
+          - Sid: RetailDeliveryStreamRoleSid
+            Effect: Allow
+            Principal:
+              Service: events.amazonaws.com
+            Action: sts:AssumeRole
+      Policies:
+        - PolicyName: RetailDeliveryStreamRolePolicy
+          PolicyDocument:
+            Version: 2012-10-17
+            Statement:
+              - Effect: Allow
+                Action:
+                  - firehose:PutRecord
+                  - firehose:PutRecordBatch
+                Resource:
+                  - !GetAtt RetailDeliveryStream.Arn
+
+  RetailEventBusFirehoseRule:
+    Type: AWS::Events::Rule
+    Properties:
+      EventBusName: !GetAtt RetailEventBus.Arn
+      Description: Rule that archives events in S3
+      EventPattern:
+        source:
+          - prefix: !Sub
+              - ${Stem}.
+              - Stem: !FindInMap [ Constants, Events, Source ]
+
+      State: ENABLED
+      Targets:
+        - Arn: !GetAtt RetailDeliveryStream.Arn
+          Id: FirehoseTargettId
+          RoleArn: !GetAtt FirehoseTargetRuleRole.Arn
+
+Outputs:
+
+  RetailEventBus:
+    Description: Retail EventBridge event bus
+    Value: !GetAtt RetailEventBus.Arn
+
+  RetailEventSourceRoot:
+    Description: Retail event source parameter
+    Value: !FindInMap [Constants, Events, Source]

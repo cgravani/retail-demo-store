@@ -250,6 +250,8 @@ Resources:
         IdentityPoolId: !GetAtt Base.Outputs.IdentityPoolId
         StackBucketName: !GetAtt Base.Outputs.StackBucketName
         Subnets: !GetAtt Base.Outputs.Subnets
+        RetailEventBus: !GetAtt Base.Outputs.RetailEventBus
+        RetailEventSourceRoot: !GetAtt Base.Outputs.RetailEventSourceRoot
         VpcId: !GetAtt Base.Outputs.VpcId
         ClusterName: !GetAtt Base.Outputs.ClusterName
         RestApiId: !GetAtt Base.Outputs.RestApiId
