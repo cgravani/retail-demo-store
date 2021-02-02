@@ -1,0 +1,6502 @@
+[
+    {
+        "id": "51607f3796cc6208dde6599a",
+        "name": "Chocolate-Covered Strawberry Cupcakes",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "sucanat",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "vanilla",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "cocoa powder",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "buttermilk",
+                "measure": "cup"
+            },
+            {
+                "amount": "1,5",
+                "name": "strawberrie",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "heavy cream",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "sour cream",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,33",
+                "name": "chocolate",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/06/08/chocolate-covered-strawberry-cupcakes/",
+        "image": "http://cdn.naturallyella.com/files/2011/06/straw-chocolate-cupcakes-200x300.jpg",
+        "totalTime": "70",
+        "recipeCategory": "Dessert"
+    },
+    {
+        "id": "5160805096cc6208dde65a03",
+        "name": "Black Raspberry Oat Scones",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "oats",
+                "measure": "cup"
+            },
+            {
+                "amount": "2,25",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "6",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "maple syrup",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,25",
+                "name": "buttermilk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "black raspberries",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "flour",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "lemon",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "water",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/06/18/black-raspberry-oat-scones/",
+        "image": "http://cdn.naturallyella.com/files/2012/06/scones-3-200x300.jpg",
+        "totalTime": "35",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "51607dba96cc6208dde65913",
+        "name": "Quinoa, Cabbage, and Garbanzo Beans",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "quinoa",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "red potato",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "garbanzo beans",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "fresh basil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "cabbage",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/10/03/quinoa-cabbage-and-garbanzo-beans/",
+        "image": "http://cdn.naturallyella.com/files/2011/10/quinoa-cabbage-300x200.jpg",
+        "totalTime": "25",
+        "recipeCategory": "Vegetarian Main Course"
+    },
+    {
+        "id": "51607f0396cc6208dde6598e",
+        "name": "Roasted Peach Cupcake with Vanilla Buttercrea",
+        "ingredients": [
+            {
+                "amount": "6",
+                "name": "peaches",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "vanilla",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1,5",
+                "name": "all purpose flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "buttermilk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "2,5",
+                "name": "powdered sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "3",
+                "name": "heavy cream",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/08/22/roasted-peach-cupcake-with-vanilla-buttercream/",
+        "image": "http://cdn.naturallyella.com/files/2011/08/peach-cupcake-300x200.jpg",
+        "totalTime": "75",
+        "recipeCategory": "dessert"
+    },
+    {
+        "id": "51607d5796cc6208dde658ee",
+        "name": "Sweet and Sour Stuffed Pepper",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "sesame oil",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "pineapple",
+                "measure": "cup"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,25",
+                "name": "red pepper flakes",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "red wine vinegar",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "ketchup",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "low sodium vegetable broth",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "cornstarch",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "brown rice",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "purple cabbage",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "onion",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "green pepper",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "pepper",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "sesame oil",
+                "measure": "teaspoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/07/15/sweet-and-sour-stuffed-pepper/",
+        "image": "http://cdn.naturallyella.com/files/2010/07/stuffed-pepper-300x199.jpg",
+        "totalTime": "90",
+        "recipeCategory": "Main Dishes"
+    },
+    {
+        "id": "51607e3d96cc6208dde65949",
+        "name": "Brussel Sprout, Fig, and Feta Ravioli {video}",
+        "ingredients": [
+            {
+                "amount": "1,5",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "3",
+                "name": "water",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "500",
+                "name": "brussel sprouts",
+                "measure": "gramm"
+            },
+            {
+                "amount": "4",
+                "name": "dried figs",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,33",
+                "name": "feta",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "20",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "rosemary",
+                "measure": "teaspoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/02/27/brussel-sprout-fig-and-feta-ravioli-video/",
+        "image": "http://cdn.naturallyella.com/files/2012/02/IMG_0620-300x200.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Vegetarian Dinner"
+    },
+    {
+        "id": "51607db196cc6208dde6590f",
+        "name": "Roasted Acorn Squash Stuffed Shells",
+        "ingredients": [
+            {
+                "amount": "150",
+                "name": "pasta shells",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "onion",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "corn squash",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "ricotta cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "parmesan cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "fresh rosemary",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "50",
+                "name": "parmesan cheese",
+                "measure": "gramm"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/10/12/roasted-acorn-squash-stuffed-shells/",
+        "image": "http://cdn.naturallyella.com/files/2011/10/IMG_4096-300x200.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Vegetarian Main Course"
+    },
+    {
+        "id": "516080b096cc6208dde65a27",
+        "name": "Roasted Mango Habanero Salsa",
+        "ingredients": [
+            {
+                "amount": "2",
+                "name": "mango",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "white onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "white wine vinegar",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "sunflower oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/03/17/roasted-mango-habanero-salsa/",
+        "image": "http://cdn.naturallyella.com/files/2011/03/mango-habenero-salsa-200x300.jpg",
+        "totalTime": "45",
+        "recipeCategory": "Appetizer"
+    },
+    {
+        "id": "51607e7196cc6208dde6595d",
+        "name": "Roasted Butternut Squash Soup",
+        "ingredients": [
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "fresh thyme",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "4",
+                "name": "butternut squash",
+                "measure": "cup"
+            },
+            {
+                "amount": "3,5",
+                "name": "low sodium vegetable broth",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "heavy cream",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/11/08/roasted-butternut-squash-soup/",
+        "image": "http://cdn.naturallyella.com/files/2011/10/bs-soup-300x200.jpg",
+        "totalTime": "60",
+        "recipeCategory": "Soup"
+    },
+    {
+        "id": "51607d6f96cc6208dde658f7",
+        "name": "Spiced Corn and Chickpea (baked) Samosas",
+        "ingredients": [
+            {
+                "amount": "2",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "olive oil",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,66",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "red onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "red pepper",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "cumin seeds",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "coriander seeds",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "red chiles",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "turmeric",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "lime",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "ear corn",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,75",
+                "name": "chickpeas",
+                "measure": "cup"
+            },
+            {
+                "amount": "10",
+                "name": "olive oil",
+                "measure": "mililiter"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/08/13/spiced-corn-and-chickpea-samosas/",
+        "image": "http://cdn.naturallyella.com/files/2012/08/samosas-300x300.jpg",
+        "totalTime": "100",
+        "recipeCategory": "Appetizer"
+    },
+    {
+        "id": "51607d4896cc6208dde658e8",
+        "name": "Sweet Potato and Spinach Burrito",
+        "ingredients": [
+            {
+                "amount": "2",
+                "name": "whole wheat tortilla",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "sweet potato",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "chipotle powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,25",
+                "name": "green pepper",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "black beans",
+                "measure": "cup"
+            },
+            {
+                "amount": "200",
+                "name": "spinach",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,25",
+                "name": "fresh cilantro",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "lime juice",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/10/07/sweet-potato-and-spinach-burrito/",
+        "image": "http://cdn.naturallyella.com/files/2011/10/burrito-300x200.jpg",
+        "totalTime": "25",
+        "recipeCategory": "Vegetarian Main Course"
+    },
+    {
+        "id": "51607e2b96cc6208dde65941",
+        "name": "Butternut Squash Mac and Cheese",
+        "ingredients": [
+            {
+                "amount": "2",
+                "name": "butternut squash",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "low sodium vegetable broth",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1,5",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1,5",
+                "name": "flour",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,75",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "1,5",
+                "name": "cheddar cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "300",
+                "name": "pasta",
+                "measure": "gramm"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/10/05/butternut-squash-mac-and-cheese/",
+        "image": "http://cdn.naturallyella.com/files/2011/10/bs-mac-and-cheese-300x200.jpg",
+        "totalTime": "40",
+        "recipeCategory": "Vegetarian Main Course"
+    },
+    {
+        "id": "51607d5296cc6208dde658ec",
+        "name": "Sweet Potato and Chickpea Stew with Quinoa",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "quinoa",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "potato",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,25",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,75",
+                "name": "cumin",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "ginger",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "red pepper",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "can diced tomato",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "low sodium vegetable broth",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "garbanzo beans",
+                "measure": "cup"
+            },
+            {
+                "amount": "200",
+                "name": "spinach",
+                "measure": "gramm"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/12/05/sweet-potato-and-chickpea-stew-with-quinoa/",
+        "image": "http://cdn.naturallyella.com/files/2011/12/IMG_6825-300x200.jpg",
+        "totalTime": "25",
+        "recipeCategory": "Vegetarian Main Course"
+    },
+    {
+        "id": "51607d6a96cc6208dde658f5",
+        "name": "Spinach and artichoke ravioli",
+        "ingredients": [
+            {
+                "amount": "0,75",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "black pepper",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "1,5",
+                "name": "water",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "ricotta cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "spinach",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "artichokes",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "basil",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "oregano",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "60",
+                "name": "cream cheese",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,25",
+                "name": "plain yogurt",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "skim milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "flour",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "thyme",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/01/06/spinach-and-artichoke-ravioli/",
+        "image": "http://cdn.naturallyella.com/files/2010/01/ravioli-300x200.jpg",
+        "totalTime": "60",
+        "recipeCategory": "Pasta"
+    },
+    {
+        "id": "51607eb396cc6208dde65975",
+        "name": "Maple Roasted Beet and Goat Cheese Salad",
+        "ingredients": [
+            {
+                "amount": "100",
+                "name": "beets",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "walnut oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "maple syrup",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "100",
+                "name": "lettuce",
+                "measure": "gramm"
+            },
+            {
+                "amount": "100",
+                "name": "goat cheese",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "sunflower seeds",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/05/10/maple-roasted-beet-and-goat-cheese-salad/",
+        "image": "http://cdn.naturallyella.com/files/2012/05/IMG_6013-300x200.jpg",
+        "totalTime": "65",
+        "recipeCategory": "Salad"
+    },
+    {
+        "id": "51607ecc96cc6208dde6597d",
+        "name": "Peanut Butter Dog Treats",
+        "ingredients": [
+            {
+                "amount": "2",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "wheat germ",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "applesauce",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "peanut butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,25",
+                "name": "water",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/07/31/peanut-butter-dog-treats/",
+        "image": "http://cdn.naturallyella.com/files/2010/07/radar3-300x199.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Miscellaneous"
+    },
+    {
+        "id": "51607f6f96cc6208dde659ad",
+        "name": "Snickerdoodles!",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "brown sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "cream of tartar",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,75",
+                "name": "flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "cinnamon",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "sugar",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/03/05/snickerdoodles/",
+        "image": "http://cdn.naturallyella.com/files/2010/03/snickerdoodles-300x200.jpg",
+        "totalTime": "25",
+        "recipeCategory": "Cookies/Brownies"
+    },
+    {
+        "id": "5160803196cc6208dde659f8",
+        "name": "Cinnamon Pull-Apart Fantails",
+        "ingredients": [
+            {
+                "amount": "0,75",
+                "name": "almond milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "2,25",
+                "name": "instant yeast",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "maple syrup",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "almond oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "flax seed",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "6",
+                "name": "water",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "all purpose flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "almond oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,33",
+                "name": "sucanat",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "cinnamon",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/04/18/cinnamon-pull-apart-fantails/",
+        "image": "http://cdn.naturallyella.com/files/2011/04/fantails-300x200.jpg",
+        "totalTime": "2H20",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "51607e4096cc6208dde6594a",
+        "name": "Brazilian Vegetable Feijoada",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "brown rice",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "tomato sauce",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "20",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "sweet potato",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "black beans",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "green pepper",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "pepper",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "tomato",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "red pepper flakes",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "cumin",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "thyme",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "cilantro",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "low sodium vegetable broth",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "lime juice",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/09/26/brazilian-vegetable-feijoada/",
+        "image": "http://cdn.naturallyella.com/files/2010/09/brazil-veg-300x200.jpg",
+        "totalTime": "45",
+        "recipeCategory": "Main Dishes"
+    },
+    {
+        "id": "51607e8196cc6208dde65962",
+        "name": "Curried Pumpkin and Coconut Soup",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "pie pumpkin",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "50",
+                "name": "scallion",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "curry powder",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "3",
+                "name": "low sodium vegetable broth",
+                "measure": "cup"
+            },
+            {
+                "amount": "0.3",
+                "name": "coconut milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "pumpkin seeds",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1,5",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/10/08/curried-pumpkin-and-coconut-soup/",
+        "image": "http://cdn.naturallyella.com/files/2012/10/IMG_8530-200x300.jpg",
+        "totalTime": "70",
+        "recipeCategory": "Soup"
+    },
+    {
+        "id": "51607f7496cc6208dde659af",
+        "name": "Pumpkin Hemp Cookies",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "hemp seed",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "cinnamon",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "nutmeg",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "brown sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "pumpkin puree",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "vanilla",
+                "measure": "teaspoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/10/18/pumpkin-hemp-cookies/",
+        "image": "http://cdn.naturallyella.com/files/2011/10/IMG_4294-200x300.jpg",
+        "totalTime": "25",
+        "recipeCategory": "Cookies"
+    },
+    {
+        "id": "51607d7796cc6208dde658fa",
+        "name": "Shaved Brussels Sprouts and Soba Noodles with Ginger-Honey Sauce",
+        "ingredients": [
+            {
+                "amount": "500",
+                "name": "brussel sprouts",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "shallot",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "100",
+                "name": "soba noodles",
+                "measure": "gramm"
+            },
+            {
+                "amount": "10",
+                "name": "ginger",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "sesame oil",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "wine vinegar",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/12/12/shaved-brussels-sprouts-and-soba-noodles-with-ginger-honey-sauce/",
+        "image": "http://cdn.naturallyella.com/files/2012/12/IMG_0452-199x300.jpg",
+        "totalTime": "15",
+        "recipeCategory": "Dinner"
+    },
+    {
+        "id": "51607e3396cc6208dde65944",
+        "name": "Butternut Squash and Goat Cheese Crostini",
+        "ingredients": [
+            {
+                "amount": "2",
+                "name": "butternut squash",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "bread",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "7",
+                "name": "sage leaves",
+                "measure": "piece"
+            },
+            {
+                "amount": "100",
+                "name": "goat cheese",
+                "measure": "gramm"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/09/24/butternut-squash-and-goat-cheese-crostini/",
+        "image": "http://cdn.naturallyella.com/files/2012/09/IMG_7898-200x300.jpg",
+        "totalTime": "40",
+        "recipeCategory": "Lunch"
+    },
+    {
+        "id": "51607f5c96cc6208dde659a6",
+        "name": "Black Raspberry Sorbet",
+        "ingredients": [
+            {
+                "amount": "500",
+                "name": "black raspberries",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "lemon juice",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "cane sugar",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/06/26/black-raspberry-sorbet/",
+        "image": "http://cdn.naturallyella.com/files/2010/06/black-rasp-sorbet-300x199.jpg",
+        "totalTime": "35",
+        "recipeCategory": "Desserts"
+    },
+    {
+        "id": "51607d1396cc6208dde658d7",
+        "name": "(Twice-Baked) Jalapeño Poppers",
+        "ingredients": [
+            {
+                "amount": "5",
+                "name": "jalapeno pepper",
+                "measure": "piece"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "100",
+                "name": "cream cheese",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "milk",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "mozzarella",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,75",
+                "name": "parmesan cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "bread",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/02/23/twice-baked-jalapeno-poppers/",
+        "image": "http://cdn.naturallyella.com/files/2012/02/IMG_9953-300x200.jpg",
+        "totalTime": "60",
+        "recipeCategory": "Appetizer"
+    },
+    {
+        "id": "517f09af96cc6251b7d42dbc",
+        "name": "Roasted Butternut Squash, Quinoa, and Jalapeño Chimichurri Tacos",
+        "ingredients": [
+            {
+                "amount": "3",
+                "name": "butternut squash",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "cumin",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "quinoa",
+                "measure": "cup"
+            },
+            {
+                "amount": "100",
+                "name": "goat cheese",
+                "measure": "gramm"
+            },
+            {
+                "amount": "5",
+                "name": "corn tortilla",
+                "measure": "piece"
+            },
+            {
+                "amount": "100",
+                "name": "lettuce",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "jalapeno pepper",
+                "measure": "piece"
+            },
+            {
+                "amount": "4",
+                "name": "green onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "cilantro",
+                "measure": "cup"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "lime",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "honey",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "100",
+                "name": "cilantro",
+                "measure": "gramm"
+            },
+            {
+                "amount": "100",
+                "name": "greek yogurt",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "lime juice",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2013/04/29/roasted-butternut-squash-quinoa-and-jalapeno-chimichurri-tacos/",
+        "image": "http://cdn.naturallyella.com/files/2013/04/IMG_8207-213x300.jpg",
+        "totalTime": "40",
+        "recipeCategory": "Dinner"
+    },
+    {
+        "id": "51607e6c96cc6208dde6595b",
+        "name": "Roasted Garlic and Tomato Soup",
+        "ingredients": [
+            {
+                "amount": "4",
+                "name": "cherry",
+                "measure": "cup"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "garbanzo beans",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "fresh rosemary",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "fresh thyme",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "3",
+                "name": "low sodium vegetable broth",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "bread",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/10/19/roasted-garlic-and-tomato-soup/",
+        "image": "http://cdn.naturallyella.com/files/2011/10/tomato-garlic-soup-200x300.jpg",
+        "totalTime": "70",
+        "recipeCategory": "soup"
+    },
+    {
+        "id": "519fff2896cc620aa3bf20b7",
+        "name": "Grilled Corn, Onion, and Whipped Cilantro Goat Cheese Quesadilla",
+        "ingredients": [
+            {
+                "amount": "100",
+                "name": "goat cheese",
+                "measure": "gramm"
+            },
+            {
+                "amount": "30",
+                "name": "cream cheese",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "ear corn",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "red onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,33",
+                "name": "cilantro",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "lime",
+                "measure": "piece"
+            },
+            {
+                "amount": "3",
+                "name": "whole wheat tortilla",
+                "measure": "piece"
+            }
+        ],
+        "url": "http://naturallyella.com/2013/05/24/grilled-corn-onion-and-whipped-cilantro-goat-cheese-quesadilla/",
+        "image": "http://cdn.naturallyella.com/files/2013/05/IMG_9337-2-200x300.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Dinner"
+    },
+    {
+        "id": "51607dd396cc6208dde6591d",
+        "name": "Kale and Couscous with Garlic Dressing",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "kale",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "couscous",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "chickpeas",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "feta",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "apple vinegar",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,125",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "12",
+                "name": "garlic",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/04/27/kale-and-couscous-with-green-garlic-dressing/",
+        "image": "http://cdn.naturallyella.com/files/2012/04/IMG_4206-200x300.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Vegetarian main Course"
+    },
+    {
+        "id": "51607dc496cc6208dde65917",
+        "name": "Pear, Walnut, and Gorgonzola Salad",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "sucanat",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "walnut",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "pear",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,33",
+                "name": "gorgonzola",
+                "measure": "cup"
+            },
+            {
+                "amount": "100",
+                "name": "lettuce",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "balsamic vinegar",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/10/05/pear-walnut-and-gorgonzola-salad/",
+        "image": "http://cdn.naturallyella.com/files/2010/10/pear-salad-300x200.jpg",
+        "totalTime": "25",
+        "recipeCategory": "Side Dishes"
+    },
+    {
+        "id": "51607dde96cc6208dde65920",
+        "name": "Homemade marinara and whole wheat pasta",
+        "ingredients": [
+            {
+                "amount": "200",
+                "name": "pasta",
+                "measure": "gramm"
+            },
+            {
+                "amount": "12",
+                "name": "tomato",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,25",
+                "name": "olive oil",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "onion",
+                "measure": "cup"
+            },
+            {
+                "amount": "40",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "dry white wine",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "fresh basil",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "fresh oregano",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "fresh rosemary",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "fresh thyme",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "sugar",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/07/20/homemade-marinara-and-whole-wheat-pasta/",
+        "image": "http://cdn.naturallyella.com/files/2011/07/marinara-300x200.jpg",
+        "totalTime": "2H",
+        "recipeCategory": "Vegetarian Entree"
+    },
+    {
+        "id": "51607e3b96cc6208dde65948",
+        "name": "Brussel Sprouts with Lemon Pasta",
+        "ingredients": [
+            {
+                "amount": "120",
+                "name": "lemon pepper pasta",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "brussel sprouts",
+                "measure": "cup"
+            },
+            {
+                "amount": "20",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "walnut",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "lemon",
+                "measure": "piece"
+            },
+            {
+                "amount": "100",
+                "name": "parmesan cheese",
+                "measure": "gramm"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/12/20/brussel-sprouts-with-lemon-pasta/",
+        "image": "http://cdn.naturallyella.com/files/2010/12/lemon-brussel-sprouts-300x200.jpg",
+        "totalTime": "20",
+        "recipeCategory": "Main Dishes"
+    },
+    {
+        "id": "51607e2996cc6208dde65940",
+        "name": "Butternut Squash Ravioli",
+        "ingredients": [
+            {
+                "amount": "200",
+                "name": "ravioli",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "butternut squash",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "squash",
+                "measure": "cup"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "caramelized onion",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "parmesan cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "flour",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "nuefchatel cheese",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "fresh sage",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "maple syrup",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/09/02/butternut-squash-ravioli/",
+        "image": "http://cdn.naturallyella.com/files/2010/09/bs-ravioli-300x200.jpg",
+        "totalTime": "75",
+        "recipeCategory": "Main Dishes"
+    },
+    {
+        "id": "51607f0096cc6208dde6598d",
+        "name": "S’mores",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "all purpose flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "cane sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "vanilla",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "nutmeg",
+                "measure": "teaspoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/07/18/smores/",
+        "image": "http://cdn.naturallyella.com/files/2010/07/smore-300x220.jpg",
+        "totalTime": "110",
+        "recipeCategory": "Miscellaneous"
+    },
+    {
+        "id": "51607de896cc6208dde65924",
+        "name": "Garlic-Butter Pasta with Spinach and parmesan cheese",
+        "ingredients": [
+            {
+                "amount": "4",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "20",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "20",
+                "name": "thyme",
+                "measure": "gramm"
+            },
+            {
+                "amount": "200",
+                "name": "spinach",
+                "measure": "gramm"
+            },
+            {
+                "amount": "100",
+                "name": "pasta",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "parmesan cheese",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/12/19/garlic-butter-pasta-with-spinach-and-parmesan/",
+        "image": "http://cdn.naturallyella.com/files/2012/12/IMG_0500-200x300.jpg",
+        "totalTime": "25",
+        "recipeCategory": "Vegetarian Main"
+    },
+    {
+        "id": "5160806096cc6208dde65a0a",
+        "name": "Baked Doughnuts",
+        "ingredients": [
+            {
+                "amount": "0,75",
+                "name": "flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "cocoa powder",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "cane sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "vanilla",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "4",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "6",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "powdered sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "vanilla",
+                "measure": "teaspoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/02/11/baked-doughnuts-for-your-valentine/",
+        "image": "http://cdn.naturallyella.com/files/2010/02/Doughnut-1-300x200.jpg",
+        "totalTime": "25",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "51607d9e96cc6208dde65908",
+        "name": "Roasted Radish and Ricotta Pizza on Cracker Crust",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "all purpose flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "cornstarch",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "3",
+                "name": "water",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,33",
+                "name": "ricotta cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "radishes",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "mustard",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "100",
+                "name": "mozzarella",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "arugula",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "pepper",
+                "measure": "teaspoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/05/07/roasted-radish-and-ricotta-pizza-on-cracker-crust/",
+        "image": "http://cdn.naturallyella.com/files/2012/05/IMG_5820-300x200.jpg",
+        "totalTime": "65",
+        "recipeCategory": "Vegetarian Main Course"
+    },
+    {
+        "id": "5160804496cc6208dde659ff",
+        "name": "Breakfast Tacos with Kale-Cilantro Chimichurri Sauce",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "kale",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "cilantro",
+                "measure": "cup"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,25",
+                "name": "onion",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "3",
+                "name": "low sodium vegetable broth",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "lime",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "sweet potato",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "chipotle powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "4",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "4",
+                "name": "tortilla",
+                "measure": "piece"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/04/02/breakfast-tacos-with-kale-cilantro-chimichurri-sauce/",
+        "image": "http://cdn.naturallyella.com/files/2012/04/IMG_3246-200x300.jpg",
+        "totalTime": "45",
+        "recipeCategory": "breakfast"
+    },
+    {
+        "id": "51607df896cc6208dde6592b",
+        "name": "Crepe Manicotti",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "all purpose flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "oregano",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "ricotta cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "garlic",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "tomato",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "mozzarella",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "marinara",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "mozzarella",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "parmesan cheese",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/06/04/crepe-manicotti/",
+        "image": "http://cdn.naturallyella.com/files/2010/06/manicotti-300x199.jpg",
+        "totalTime": "55",
+        "recipeCategory": "Main Dishes"
+    },
+    {
+        "id": "51607e6296cc6208dde65957",
+        "name": "Spinach Bisque",
+        "ingredients": [
+            {
+                "amount": "150",
+                "name": "fresh spinach",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "onion",
+                "measure": "cup"
+            },
+            {
+                "amount": "4",
+                "name": "chicken broth",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "cornstarch",
+                "measure": "cup"
+            },
+            {
+                "amount": "4",
+                "name": "cheddar cheese",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/01/18/spinach-bisque/",
+        "image": "http://cdn.naturallyella.com/files/2010/01/spinach-bisque-300x200.jpg",
+        "totalTime": "45",
+        "recipeCategory": "Soups"
+    },
+    {
+        "id": "51607e9696cc6208dde6596a",
+        "name": "Asparagus Soup",
+        "ingredients": [
+            {
+                "amount": "200",
+                "name": "asparagus",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "low sodium vegetable broth",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "rosemary",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,25",
+                "name": "white wine",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "heavy cream",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "parmesan cheese",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/05/17/asparagus-soup/",
+        "image": "http://cdn.naturallyella.com/files/2010/05/asparagus-300x199.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Soups"
+    },
+    {
+        "id": "51607e9996cc6208dde6596b",
+        "name": "Summer Farro Salad",
+        "ingredients": [
+            {
+                "amount": "2",
+                "name": "farro",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "cucumber",
+                "measure": "piece"
+            },
+            {
+                "amount": "3",
+                "name": "cherry tomato",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "feta",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "lemon",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,33",
+                "name": "basil",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/07/20/summer-farro-salad/",
+        "image": "http://cdn.naturallyella.com/files/2012/07/IMG_3962200x300.jpg",
+        "totalTime": "35",
+        "recipeCategory": "Salad"
+    },
+    {
+        "id": "5160803c96cc6208dde659fb",
+        "name": "Candied Ginger Zucchini Muffins",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "all purpose flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "baking powder",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "agave",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,33",
+                "name": "sunflower oil",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "zucchini",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "ginger",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/06/28/candied-ginger-zucchini-muffins/",
+        "image": "http://cdn.naturallyella.com/files/2010/06/zucchini-ginger-muffins-300x199.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "51607fab96cc6208dde659c5",
+        "name": "Strawberry Hemp Granola",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "oats",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "hemp seeds",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "honey",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "sunflower oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "3",
+                "name": "orange juice",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "vanilla",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,75",
+                "name": "strawberrie",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/09/07/strawberry-hemp-granola/",
+        "image": "http://cdn.naturallyella.com/files/2010/09/strawberry-hemp-granola-300x200.jpg",
+        "totalTime": "70",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "51607e6a96cc6208dde6595a",
+        "name": "Roasted Poblano and Potato Soup",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "potato",
+                "measure": "piece"
+            },
+            {
+                "amount": "3",
+                "name": "low sodium vegetable broth",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "poblano pepper",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,25",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "cheddar cheese",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/02/24/roasted-poblano-and-potato-soup/",
+        "image": "http://cdn.naturallyella.com/files/2011/02/poblano-soup1-300x200.jpg",
+        "totalTime": "40",
+        "recipeCategory": "Soup"
+    },
+    {
+        "id": "51607e4596cc6208dde6594c",
+        "name": "Black Bean and Guac Burrito",
+        "ingredients": [
+            {
+                "amount": "2",
+                "name": "tortilla",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "brown rice",
+                "measure": "cup"
+            },
+            {
+                "amount": "200",
+                "name": "can black beans",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "lettuce",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,33",
+                "name": "moneteray jack cheese",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/02/24/black-bean-and-guac-burrito/",
+        "image": "http://cdn.naturallyella.com/files/2010/02/guac-burritos-300x200.jpg",
+        "totalTime": "25",
+        "recipeCategory": "Main Dishes"
+    },
+    {
+        "id": "51607fc896cc6208dde659d0",
+        "name": "Roasted Potato, Onion, and Rosemary Crustless Quiche",
+        "ingredients": [
+            {
+                "amount": "1000",
+                "name": "potato",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "red onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "fresh rosemary",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "feta",
+                "measure": "cup"
+            },
+            {
+                "amount": "5",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "black pepper",
+                "measure": "teaspoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/09/10/roasted-potato-onion-and-rosemary-crustless-quiche/",
+        "image": "http://cdn.naturallyella.com/files/2012/09/IMG_7042-200x300.jpg",
+        "totalTime": "105",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "516080b596cc6208dde65a29",
+        "name": "Roasted corn and cream cheese {baked} potstickers",
+        "ingredients": [
+            {
+                "amount": "14",
+                "name": "wonton wrappers",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "corn",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "green onion",
+                "measure": "cup"
+            },
+            {
+                "amount": "100",
+                "name": "cream cheese",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "rosemary",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "parmesan cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "100",
+                "name": "water",
+                "measure": "mililiter"
+            },
+            {
+                "amount": "50",
+                "name": "olive oil",
+                "measure": "mililiter"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/07/19/roasted-corn-and-cream-cheese-baked-potstickers/",
+        "image": "http://cdn.naturallyella.com/files/2011/07/corn-potsticker-300x200.jpg",
+        "totalTime": "40",
+        "recipeCategory": "Appetizers"
+    },
+    {
+        "id": "5160802996cc6208dde659f5",
+        "name": "Coconut Carrot Bread",
+        "ingredients": [
+            {
+                "amount": "0,75",
+                "name": "all purpose flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,75",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,33",
+                "name": "coconut flakes",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "sucanat",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,33",
+                "name": "sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "carrot",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,25",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "coconut milk",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/07/30/coconut-carrot-bread/",
+        "image": "http://cdn.naturallyella.com/files/2010/07/carrot-bread-300x199.jpg",
+        "totalTime": "70",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "51607e8896cc6208dde65964",
+        "name": "Creamy Roasted Corn Soup",
+        "ingredients": [
+            {
+                "amount": "2",
+                "name": "ear corn",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,25",
+                "name": "pepper",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "yellow squash",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "low sodium vegetable broth",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "sprig rosemary",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,33",
+                "name": "rice",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/07/22/creamy-roasted-corn-soup/",
+        "image": "http://cdn.naturallyella.com/files/2010/07/roasted-corn-soup-300x199.jpg",
+        "totalTime": "40",
+        "recipeCategory": "Main Dishes"
+    },
+    {
+        "id": "51607f5e96cc6208dde659a7",
+        "name": "Black Raspberry and Vanilla Bean Ice Crea",
+        "ingredients": [
+            {
+                "amount": "1,33",
+                "name": "heavy cream",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,75",
+                "name": "2% milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "vanilla bean",
+                "measure": "piece"
+            },
+            {
+                "amount": "3",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,75",
+                "name": "sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "3",
+                "name": "black raspberries",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "cream cheese",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/05/28/black-raspberry-and-vanilla-bean-ice-cream/",
+        "image": "http://cdn.naturallyella.com/files/2012/05/IMG_7468-200x300.jpg",
+        "totalTime": "45",
+        "recipeCategory": "Dessert"
+    },
+    {
+        "id": "51607dcc96cc6208dde6591a",
+        "name": "Lentil and Swiss Chard Tacos (with Homemade corn tortilla)",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "onion",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "dried chiles",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "oregano",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "smoked paprika",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,125",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "cocoa powder",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "lentils",
+                "measure": "cup"
+            },
+            {
+                "amount": "1,5",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "100",
+                "name": "swiss chard",
+                "measure": "gramm"
+            },
+            {
+                "amount": "5",
+                "name": "corn tortilla",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "greek yogurt",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,33",
+                "name": "cilantro",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "lime",
+                "measure": "piece"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/05/23/lentil-and-swiss-chard-tacos-with-homemade-corn-tortilla/",
+        "image": "http://cdn.naturallyella.com/files/2012/05/IMG_7404-300x200.jpg",
+        "totalTime": "55",
+        "recipeCategory": "Vegetarian Main Course"
+    },
+    {
+        "id": "51607e0b96cc6208dde65934",
+        "name": "Chipotle Black Bean, Corn, and Rice Bowl",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "green pepper",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "corn",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "black beans",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "chipotle pepper",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "adobo sauce",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "brown rice",
+                "measure": "cup"
+            },
+            {
+                "amount": "100",
+                "name": "sour cream",
+                "measure": "gramm"
+            },
+            {
+                "amount": "100",
+                "name": "cilantro",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "lime",
+                "measure": "piece"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/02/03/chipotle-black-bean-corn-and-rice-bowl/",
+        "image": "http://cdn.naturallyella.com/files/2012/02/IMG_8934-200x300.jpg",
+        "totalTime": "20",
+        "recipeCategory": "Vegetarian Main Course"
+    },
+    {
+        "id": "516080a796cc6208dde65a23",
+        "name": "Roasted Tomato Salsa",
+        "ingredients": [
+            {
+                "amount": "13",
+                "name": "tomato",
+                "measure": "piece"
+            },
+            {
+                "amount": "20",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "jalapeno pepper",
+                "measure": "piece"
+            },
+            {
+                "amount": "3",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "cilantro",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "lemon juice",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2009/07/12/roasted-tomato-salsa/",
+        "image": "http://cdn.naturallyella.com/files/2009/07/roasted-tomato-salsa-300x199.jpg",
+        "totalTime": "55",
+        "recipeCategory": "Appetizers"
+    },
+    {
+        "id": "51607ee296cc6208dde65984",
+        "name": "Coconut Curry Popcorn",
+        "ingredients": [
+            {
+                "amount": "100",
+                "name": "popcorn",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "coconut oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "coconut flakes",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "curry powder",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "ginger powder",
+                "measure": "teaspoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/02/13/coconut-curry-popcorn/",
+        "image": "http://cdn.naturallyella.com/files/2012/02/IMG_9764-300x200.jpg",
+        "totalTime": "10",
+        "recipeCategory": "snack"
+    },
+    {
+        "id": "51607e4296cc6208dde6594b",
+        "name": "Black Bean Burgers",
+        "ingredients": [
+            {
+                "amount": "500",
+                "name": "can black beans",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "carrot",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "onion",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "red pepper",
+                "measure": "cup"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "jalapeno pepper",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "oats",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "oregano",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "cumin",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/06/10/black-bean-burgers/",
+        "image": "http://cdn.naturallyella.com/files/2010/06/black-bean-burger-300x199.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Main Dishes"
+    },
+    {
+        "id": "51607df496cc6208dde6592a",
+        "name": "Curried Butternut Squash and Brown Rice Skillet",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "1,5",
+                "name": "butternut squash",
+                "measure": "cup"
+            },
+            {
+                "amount": "1,5",
+                "name": "curry powder",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "brown rice",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,75",
+                "name": "tomato",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "chickpeas",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "pepper",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "low sodium vegetable broth",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/11/07/curried-butternut-squash-and-brown-rice-skillet/",
+        "image": "http://cdn.naturallyella.com/files/2012/11/IMG_9528-200x300.jpg",
+        "totalTime": "55",
+        "recipeCategory": "vegetarian main course"
+    },
+    {
+        "id": "51607faf96cc6208dde659c7",
+        "name": "Strawberry and Chocolate Chip Scones",
+        "ingredients": [
+            {
+                "amount": "1,5",
+                "name": "all purpose flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "sugar",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2,25",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "6",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "buttermilk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,33",
+                "name": "strawberrie",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,33",
+                "name": "chocolate chips",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "water",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/02/15/strawberry-and-chocolate-chip-scones/",
+        "image": "http://cdn.naturallyella.com/files/2011/02/strawberrycc-scones-300x200.jpg",
+        "totalTime": "25",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "51607ee596cc6208dde65985",
+        "name": "Chai Tea",
+        "ingredients": [
+            {
+                "amount": "2",
+                "name": "cinnamon",
+                "measure": "piece"
+            },
+            {
+                "amount": "8",
+                "name": "clove",
+                "measure": "piece"
+            },
+            {
+                "amount": "6",
+                "name": "cardamon",
+                "measure": "piece"
+            },
+            {
+                "amount": "20",
+                "name": "ginger",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "nutmeg",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "3",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "black tea",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "sucanat",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "milk",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/01/14/chai-tea/",
+        "image": "http://cdn.naturallyella.com/files/2011/01/chai-tea-300x200.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Main Dishes"
+    },
+    {
+        "id": "5160804296cc6208dde659fe",
+        "name": "Brown Butter and Pecan Pancakes",
+        "ingredients": [
+            {
+                "amount": "0,33",
+                "name": "pecans",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,66",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1,5",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "cinnamon",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,25",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "vanilla bean",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "maple syrup",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,75",
+                "name": "milk",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2013/02/11/brown-butter-and-pecan-pancakes/",
+        "image": "http://cdn.naturallyella.com/files/2013/02/IMG_4192-200x300.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "51607fce96cc6208dde659d3",
+        "name": "Roasted Banana Whole Wheat Pancakes",
+        "ingredients": [
+            {
+                "amount": "2",
+                "name": "banana",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "maple syrup",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "vanilla",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,75",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,33",
+                "name": "pecans",
+                "measure": "cup"
+            },
+            {
+                "amount": "100",
+                "name": "butter",
+                "measure": "gramm"
+            },
+            {
+                "amount": "100",
+                "name": "maple syrup",
+                "measure": "mililiter"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/03/07/roasted-banana-whole-wheat-pancakes/",
+        "image": "http://cdn.naturallyella.com/files/2012/03/pancake-3-200x300.jpg",
+        "totalTime": "40",
+        "recipeCategory": "breakfast"
+    },
+    {
+        "id": "519d5c2096cc6202ef1e713f",
+        "name": "Creamy Gorgonzola Rice and Roasted Cauliflower",
+        "ingredients": [
+            {
+                "amount": "5",
+                "name": "cauliflower",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "brown rice",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "lemon",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "100",
+                "name": "gorgonzola",
+                "measure": "gramm"
+            }
+        ],
+        "url": "http://naturallyella.com/2013/05/22/creamy-gorgonzola-rice-and-roasted-cauliflower/",
+        "image": "http://cdn.naturallyella.com/files/2013/05/IMG_8955-195x300.jpg",
+        "totalTime": "50",
+        "recipeCategory": "Lunch"
+    },
+    {
+        "id": "51607f3096cc6208dde65999",
+        "name": "Eggnog Cupcakes",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "all purpose flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "nutmeg",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "eggnog",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "rum",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "4",
+                "name": "powdered sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "eggnog",
+                "measure": "cup"
+            },
+            {
+                "amount": "10",
+                "name": "cinnamon",
+                "measure": "gramm"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/01/02/eggnog-cupcakes/",
+        "image": "http://cdn.naturallyella.com/files/2011/01/eggnog-cupcakes-300x200.jpg",
+        "totalTime": "35",
+        "recipeCategory": "Cakes/Cupcakes"
+    },
+    {
+        "id": "51607f7296cc6208dde659ae",
+        "name": "Pumpkin Spice Sugar Cookies",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,75",
+                "name": "sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "vanilla",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "cinnamon",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "nutmeg",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "clove",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "ginger",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "3,66",
+                "name": "all purpose flour",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/10/31/pumpkin-spice-sugar-cookies/",
+        "image": "http://cdn.naturallyella.com/files/2011/10/IMG_5999270x300.jpg",
+        "totalTime": "25",
+        "recipeCategory": "Cookie"
+    },
+    {
+        "id": "51607f1896cc6208dde65994",
+        "name": "Mound/Almond Joy Cupcakes",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "vanilla",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "all purpose flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "cocoa powder",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "coconut",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "powdered sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "condensed milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,75",
+                "name": "chocolate chips",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "heavy cream",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/11/11/moundalmond-joy-cupcakes/",
+        "image": "http://cdn.naturallyella.com/files/2010/11/almond-joy-cupcakes-300x200.jpg",
+        "totalTime": "50",
+        "recipeCategory": "Desserts"
+    },
+    {
+        "id": "51607dea96cc6208dde65925",
+        "name": "Gallo Pinto",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "brown rice",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "cumin",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "red pepper",
+                "measure": "piece"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "black beans",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "annie’s worcestershire sauce (or salsa lizano)",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/04/04/gallo-pinto/",
+        "image": "http://cdn.naturallyella.com/files/2011/04/gallo-pinto-300x200.jpg",
+        "totalTime": "45",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "51607dcf96cc6208dde6591c",
+        "name": "Kale and Feta Galette",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "8",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "60",
+                "name": "cream cheese",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "ice water",
+                "measure": "cup"
+            },
+            {
+                "amount": "3",
+                "name": "kale",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "green onion",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "ricotta cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "feta",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "water",
+                "measure": "teaspoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/04/18/kale-and-feta-galette/",
+        "image": "http://cdn.naturallyella.com/files/2012/04/IMG_4456-300x200.jpg",
+        "totalTime": "65",
+        "recipeCategory": "Vegetarian Main Course"
+    },
+    {
+        "id": "5160802396cc6208dde659f3",
+        "name": "Coconut Pineapple Muffins",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "all purpose flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "wheat germ",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "coconut milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,33",
+                "name": "agave",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,33",
+                "name": "sunflower oil",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "coconut milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "pineapple",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/03/08/coconut-pineapple-muffins/",
+        "image": "http://cdn.naturallyella.com/files/2011/03/coconut-pineapple-300x200.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "5160800a96cc6208dde659eb",
+        "name": "Lemon Poppy Seed Pancakes",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "all purpose flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "wheat germ",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "3",
+                "name": "poppy seeds",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "lemon",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "egg",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "canola oil",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/04/12/lemon-poppy-seed-pancakes/",
+        "image": "http://cdn.naturallyella.com/files/2010/04/lemon-poppyseed-pancakes-300x200.jpg",
+        "totalTime": "25",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "51607d9c96cc6208dde65907",
+        "name": "Roasted Red Pepper Pasta Sauce",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "30",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "red pepper",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "fresh basil",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "white wine",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "all purpose flour",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,75",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "gruyere cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "100",
+                "name": "parm",
+                "measure": "gramm"
+            },
+            {
+                "amount": "100",
+                "name": "basil",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/08/16/roasted-red-pepper-pasta-sauce/",
+        "image": "http://cdn.naturallyella.com/files/2010/08/red-pepper-sauce-300x199.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Main Dishes"
+    },
+    {
+        "id": "51607ffc96cc6208dde659e5",
+        "name": "Orange and Dark Chocolate Buttermilk Scones",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "all purpose flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "sugar",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "orange",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2,25",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "6",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,25",
+                "name": "buttermilk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,75",
+                "name": "dark chocolate",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "water",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/00,53/orange-and-dark-chocolate-buttermilk-scones/",
+        "image": "http://cdn.naturallyella.com/files/2011/01/cc-scones-300x200.jpg",
+        "totalTime": "25",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "51607e2e96cc6208dde65942",
+        "name": "Butternut Squash Jambalaya (vegan)",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "butternut squash",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "onion",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "green pepper",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "red pepper",
+                "measure": "cup"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,25",
+                "name": "celery",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "tomato",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "worcestershire sauce",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "hot sauce",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,75",
+                "name": "rice",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "low sodium vegetable broth",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "tomato sauce",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "garlic powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "oregano",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "cayenne pepper",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/09/22/butternut-squash-jambalaya-vegan/",
+        "image": "http://cdn.naturallyella.com/files/2010/09/sp-jumbalaya-300x200.jpg",
+        "totalTime": "40",
+        "recipeCategory": "Main Dishes"
+    },
+    {
+        "id": "5160805296cc6208dde65a04",
+        "name": "Barley Crepes with Yogurt and Cinnamon-Honey Bananas",
+        "ingredients": [
+            {
+                "amount": "0,25",
+                "name": "barley flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,125",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,25",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "walnut oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "greek yogurt",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "banana",
+                "measure": "piece"
+            },
+            {
+                "amount": "4",
+                "name": "honey",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,75",
+                "name": "cinnamon",
+                "measure": "teaspoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2013/02/22/barley-crepes-with-yogurt-and-cinnamon-honey-banana/",
+        "image": "http://cdn.naturallyella.com/files/2013/02/IMG_5236-2-200x300.jpg",
+        "totalTime": "15",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "5160806e96cc6208dde65a10",
+        "name": "Whole Wheat Sesame Bagels",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "yeast",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "cane sugar",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,75",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "sunflower oil",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "all purpose flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "sucanat",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/06/27/whole-wheat-sesame-bagels/",
+        "image": "http://cdn.naturallyella.com/files/2010/06/bagels-300x199.jpg",
+        "totalTime": "85",
+        "recipeCategory": "Bread"
+    },
+    {
+        "id": "516080d496cc6208dde65a32",
+        "name": "Baked Sweet Potato Potstickers",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "sweet potato",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "10",
+                "name": "pepper",
+                "measure": "gramm"
+            },
+            {
+                "amount": "10",
+                "name": "salt",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,33",
+                "name": "ricotta cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "parmesan cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "fresh rosemary",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "18",
+                "name": "wonton wrappers",
+                "measure": "piece"
+            },
+            {
+                "amount": "50",
+                "name": "water",
+                "measure": "mililiter"
+            },
+            {
+                "amount": "50",
+                "name": "sunflower oil",
+                "measure": "mililiter"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/04/20/bakedsweetpotatopotstickers/",
+        "image": "http://cdn.naturallyella.com/files/2011/04/potstickers-200x300.jpg",
+        "totalTime": "80",
+        "recipeCategory": "Appetizer"
+    },
+    {
+        "id": "51c2462496cc624ab84367e6",
+        "name": "Roasted Cherry, Barley, and Goat Cheese Salad",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "hulled barley",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "3",
+                "name": "cherries",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "pistachio",
+                "measure": "cup"
+            },
+            {
+                "amount": "100",
+                "name": "goat cheese",
+                "measure": "gramm"
+            },
+            {
+                "amount": "200",
+                "name": "lettuce",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "balsamic vinegar",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "honey",
+                "measure": "teaspoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2013/06/19/roasted-cherry-barley-and-goat-cheese-salad/",
+        "image": "http://cdn.naturallyella.com/files/2013/06/IMG_1254-433x650.jpg",
+        "totalTime": "55",
+        "recipeCategory": "Salad"
+    },
+    {
+        "id": "51607e9e96cc6208dde6596e",
+        "name": "Roasted Sweet Potato, Spinach, and Grain Salad",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "sweet potato",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "3",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "smoked paprika",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "brown rice",
+                "measure": "cup"
+            },
+            {
+                "amount": "200",
+                "name": "spinach",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "lime juice",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "cilantro",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/1,58/roasted-sweet-potato-spinach-and-grain-salad/",
+        "image": "http://cdn.naturallyella.com/files/2012/11/IMG_0133-199x300.jpg",
+        "totalTime": "40",
+        "recipeCategory": "Lunch"
+    },
+    {
+        "id": "51607e1796cc6208dde65939",
+        "name": "Cauliflower Bake",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "marinara",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "ricotta cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "dried basil",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "dried rosemary",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "black pepper",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "parmesan cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "bread crumbs",
+                "measure": "cup"
+            },
+            {
+                "amount": "4",
+                "name": "cauliflower",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "broccoli",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2009/10,660/cold-weather-warm-food/",
+        "image": "http://cdn.naturallyella.com/files/2009/12/cauliflower-bake-300x200.jpg",
+        "totalTime": "35",
+        "recipeCategory": "Side Dishes"
+    },
+    {
+        "id": "5160807b96cc6208dde65a13",
+        "name": "Seeded Bread",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "yeast",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "honey",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "canola oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "wheat germ",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "flax seeds",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "flour",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/05/25/seeded-bread/",
+        "image": "http://cdn.naturallyella.com/files/2010/05/seeded-bread-199x300.jpg",
+        "totalTime": "3H15",
+        "recipeCategory": "Bread"
+    },
+    {
+        "id": "51607d8e96cc6208dde65903",
+        "name": "Roasted Tomato and Egg Grilled Cheese Sandwich",
+        "ingredients": [
+            {
+                "amount": "500",
+                "name": "tomato",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "5",
+                "name": "basil",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "100",
+                "name": "mozzarella",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "bread",
+                "measure": "piece"
+            },
+            {
+                "amount": "50",
+                "name": "olive oil",
+                "measure": "mililiter"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/07/09/roasted-tomato-and-egg-grilled-cheese-sandwich/",
+        "image": "http://cdn.naturallyella.com/files/2012/07/grilled-cheese-300x200.jpg",
+        "totalTime": "85",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "51607f9c96cc6208dde659be",
+        "name": "Swiss Chard and Feta Frittata",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,33",
+                "name": "green onion",
+                "measure": "cup"
+            },
+            {
+                "amount": "200",
+                "name": "swiss chard",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "egg",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "fresh oregano",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,33",
+                "name": "feta",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/06/13/swiss-chard-and-feta-frittata/",
+        "image": "http://cdn.naturallyella.com/files/2011/06/fritatta-200x300.jpg",
+        "totalTime": "20",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "51b90ba696cc622462b80fde",
+        "name": "Honey Mustard Veggie Kabobs with Garlic Quinoa",
+        "ingredients": [
+            {
+                "amount": "0,25",
+                "name": "mustard",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "greek yogurt",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "pepper",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,25",
+                "name": "smoked paprika",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "zucchini",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "pepper",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "red onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "200",
+                "name": "button mushrooms",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,5",
+                "name": "quinoa",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "20",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,25",
+                "name": "basil",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2013/06/12/honey-mustard-veggie-kabobs-with-garlic-quinoa/",
+        "image": "http://cdn.naturallyella.com/files/2013/06/IMG_0823,533x650.jpg",
+        "totalTime": "40",
+        "recipeCategory": "Dinner"
+    },
+    {
+        "id": "51607df296cc6208dde65929",
+        "name": "Curried Lentils and Rhubarb Chutney",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "7",
+                "name": "green onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "lime",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "curry powder",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "lentils",
+                "measure": "cup"
+            },
+            {
+                "amount": "3",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "fresh cilantro",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "green onion",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "ginger",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "apple vinegar",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "medjool",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "rhubarb",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "cardamon",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "cinnamon",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "water",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,125",
+                "name": "red chili flakes",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "200",
+                "name": "brown rice",
+                "measure": "gramm"
+            },
+            {
+                "amount": "100",
+                "name": "greek yogurt",
+                "measure": "gramm"
+            },
+            {
+                "amount": "100",
+                "name": "cilantro",
+                "measure": "gramm"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/05/16/curried-lentils-and-rhubarb-chutney/",
+        "image": "http://cdn.naturallyella.com/files/2012/05/IMG_6526-200x300.jpg",
+        "totalTime": "60",
+        "recipeCategory": "Vegetarian Main Course"
+    },
+    {
+        "id": "5160804e96cc6208dde65a02",
+        "name": "Black-Eyed Peas and Dill Potato Skillet",
+        "ingredients": [
+            {
+                "amount": "1,5",
+                "name": "red potato",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,33",
+                "name": "dried black eyed peas",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "shallot",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "fresh rosemary",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "fresh dill",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/07/02/black-eyed-peas-and-dill-potato-skillet/",
+        "image": "http://cdn.naturallyella.com/files/2012/07/skillet-2-200x300.jpg",
+        "totalTime": "35",
+        "recipeCategory": "breakfast"
+    },
+    {
+        "id": "51607d6496cc6208dde658f2",
+        "name": "Sriracha Marinated Butternut Squash and Black Bean Tacos",
+        "ingredients": [
+            {
+                "amount": "2",
+                "name": "butternut squash",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "sriracha",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "apple vinegar",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "black beans",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "lime juice",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "cilantro",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "100",
+                "name": "goat cheese",
+                "measure": "gramm"
+            },
+            {
+                "amount": "5",
+                "name": "tortilla",
+                "measure": "piece"
+            }
+        ],
+        "url": "http://naturallyella.com/2013/03/05/sriracha-marinated-butternut-squash-and-black-bean-tacos/",
+        "image": "http://cdn.naturallyella.com/files/2013/03/IMG_5544-197x300.jpg",
+        "totalTime": "2H30",
+        "recipeCategory": "Dinner"
+    },
+    {
+        "id": "51607d7c96cc6208dde658fc",
+        "name": "Shaved Asparagus and Gorgonzola Pizza",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "pizza base",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "750",
+                "name": "asparagus",
+                "measure": "gramm"
+            },
+            {
+                "amount": "50",
+                "name": "green onion",
+                "measure": "gramm"
+            },
+            {
+                "amount": "250",
+                "name": "gorgonzola",
+                "measure": "gramm"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/04/16/shaved-asparagus-and-gorgonzola-pizza/",
+        "image": "http://cdn.naturallyella.com/files/2012/04/asparagus-1-300x240.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Vegetarian Main Course"
+    },
+    {
+        "id": "51607fa096cc6208dde659c0",
+        "name": "Sweet Potato Cakes with Curried Tomato Sauce and Poached Egg",
+        "ingredients": [
+            {
+                "amount": "500",
+                "name": "sweet potato",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "3",
+                "name": "green onion",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "soy sauce",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "20",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "3",
+                "name": "whole wheat flour",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "onion",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "20",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "ginger",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "curry powder",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "can diced tomato",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "coconut milk",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "100",
+                "name": "cilantro",
+                "measure": "gramm"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/03/19/sweet-potato-cakes-with-curried-tomato-sauce-and-poached-egg/",
+        "image": "http://cdn.naturallyella.com/files/2012/03/IMG_2698-200x300.jpg",
+        "totalTime": "35",
+        "recipeCategory": "vegetarian main course"
+    },
+    {
+        "id": "51607e5096cc6208dde65950",
+        "name": "Baked Black Bean Taquitos",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "yellow onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "jalapeno pepper",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "sunflower oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "paprika",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "cumin",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "cayenne pepper",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "black beans",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "cilantro",
+                "measure": "cup"
+            },
+            {
+                "amount": "7",
+                "name": "corn tortilla",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "colby jack cheese",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/00,58/baked-black-bean-taquitos/",
+        "image": "http://cdn.naturallyella.com/files/2011/01/taquitos-200x300.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Main Dishes"
+    },
+    {
+        "id": "51607e3196cc6208dde65943",
+        "name": "Butternut Squash and Lentil Pot Pie",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "lentils",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "butternut squash",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "onion",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "whole wheat flour",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "white wine",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,75",
+                "name": "low sodium vegetable broth",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "dried rosemary",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "pepper",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,75",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,125",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "4",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "50",
+                "name": "cream cheese",
+                "measure": "gramm"
+            },
+            {
+                "amount": "3",
+                "name": "water",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/11/01/butternut-squash-and-lentil-pot-pie/",
+        "image": "http://cdn.naturallyella.com/files/2011/10/pot-pie-200x300.jpg",
+        "totalTime": "65",
+        "recipeCategory": "vegetarian main course"
+    },
+    {
+        "id": "51607f7f96cc6208dde659b3",
+        "name": "Lime sugar cookies",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,33",
+                "name": "sugar",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "lime juice",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,125",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1,5",
+                "name": "flour",
+                "measure": "cup"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/05/11/lime-sugar-cookies/",
+        "image": "http://cdn.naturallyella.com/files/2010/05/lime-cookie-300x200.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Cookies/Brownies"
+    },
+    {
+        "id": "51607fe896cc6208dde659de",
+        "name": "Potato Masala and Egg Skillet",
+        "ingredients": [
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "10",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "100",
+                "name": "red potato",
+                "measure": "gramm"
+            },
+            {
+                "amount": "0,33",
+                "name": "low sodium vegetable broth",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/1,56/potato-masala-and-egg-skillet/",
+        "image": "http://cdn.naturallyella.com/files/2012/11/IMG_0011-199x300.jpg",
+        "totalTime": "20",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "51607f9696cc6208dde659bb",
+        "name": "Vanilla Bean Pancakes with Maple Butter Pears",
+        "ingredients": [
+            {
+                "amount": "0,75",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "vanilla bean",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "maple syrup",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "nut oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "pear",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "butter",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "3",
+                "name": "maple syrup",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "100",
+                "name": "cinnamon",
+                "measure": "gramm"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/08/15/vanilla-bean-pancakes-with-maple-butter-pears/",
+        "image": "http://cdn.naturallyella.com/files/2012/08/IMG_5812-200x300.jpg",
+        "totalTime": "40",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "5160758896cc6207aada3235",
+        "name": "Roasted Asparagus, Green Onion, and Blue Cheese Frittata",
+        "ingredients": [
+            {
+                "amount": "500",
+                "name": "asparagus",
+                "measure": "gramm"
+            },
+            {
+                "amount": "5",
+                "name": "green onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "6",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,75",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "black pepper",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "blue cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "100",
+                "name": "blue cheese",
+                "measure": "gramm"
+            }
+        ],
+        "url": "http://naturallyella.com/2013/04/03/roasted-asparagus-green-onion-and-blue-cheese-frittata/",
+        "image": "http://cdn.naturallyella.com/files/2013/04/IMG_7166-2-200x300.jpg",
+        "totalTime": "35",
+        "recipeCategory": "Breakfast"
+    },
+    {
+        "id": "518d8a2496cc6279335b6861",
+        "name": "Curried Cauliflower Pizza",
+        "ingredients": [
+            {
+                "amount": "0,75",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "yeast",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "honey",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "white onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "cauliflower",
+                "measure": "piece"
+            },
+            {
+                "amount": "1,5",
+                "name": "low sodium vegetable broth",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "coconut milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "150",
+                "name": "mozzarella",
+                "measure": "gramm"
+            }
+        ],
+        "url": "http://naturallyella.com/2013/05/10/curried-cauliflower-pizza/",
+        "image": "http://cdn.naturallyella.com/files/2013/05/IMG_8473-2-200x300.jpg",
+        "totalTime": "60",
+        "recipeCategory": "Dinner"
+    },
+    {
+        "id": "519ab92196cc62512722a273",
+        "name": "Caramelized Cauliflower, Roasted Red Pepper, and Quinoa Salad",
+        "ingredients": [
+            {
+                "amount": "5",
+                "name": "cauliflower",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "salt",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "2",
+                "name": "red pepper",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "quinoa",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "cilantro",
+                "measure": "cup"
+            },
+            {
+                "amount": "3",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "3",
+                "name": "lime juice",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "2",
+                "name": "honey",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "5",
+                "name": "green onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "100",
+                "name": "goat cheese",
+                "measure": "gramm"
+            },
+            {
+                "amount": "10",
+                "name": "pumpkin seeds",
+                "measure": "gramm"
+            }
+        ],
+        "url": "http://naturallyella.com/2013/05/20/caramelized-cauliflower-roasted-red-pepper-and-quinoa-salad/",
+        "image": "http://cdn.naturallyella.com/files/2013/05/IMG_8612-200x300.jpg",
+        "totalTime": "45",
+        "recipeCategory": "Salad"
+    },
+    {
+        "id": "5160809d96cc6208dde65a1f",
+        "name": "Spinach and Artichoke Dip",
+        "ingredients": [
+            {
+                "amount": "500",
+                "name": "cream cheese",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "can artichokes",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "fresh spinach",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "sour cream",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "low sodium vegetable broth",
+                "measure": "piece"
+            },
+            {
+                "amount": "2",
+                "name": "milk",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "mozzarella",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "fontina",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "asiago cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "parmesan cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "20",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "oregano",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2010/03/04/spinach-and-artichoke-dip/",
+        "image": "http://cdn.naturallyella.com/files/2010/03/spin-dip-300x200.jpg",
+        "totalTime": "45",
+        "recipeCategory": "Appetizers"
+    },
+    {
+        "id": "5160807d96cc6208dde65a14",
+        "name": "Rye Maple Muffins",
+        "ingredients": [
+            {
+                "amount": "0,5",
+                "name": "rye flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "whole wheat flour",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "baking soda",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "baking powder",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,75",
+                "name": "milk",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "butter",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,66",
+                "name": "maple syrup",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "cardamon",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "1",
+                "name": "orange",
+                "measure": "piece"
+            },
+            {
+                "amount": "1",
+                "name": "apple",
+                "measure": "piece"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/04/13/rye-maple-muffins/",
+        "image": "http://cdn.naturallyella.com/files/2012/04/IMG_3268-200x300.jpg",
+        "totalTime": "30",
+        "recipeCategory": "Baked Goods"
+    },
+    {
+        "id": "51607d8496cc6208dde658ff",
+        "name": "Sesame Orange Chickpeas, Cabbage, and Soba Noodles",
+        "ingredients": [
+            {
+                "amount": "4",
+                "name": "soba noodles",
+                "measure": "teaspoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "50",
+                "name": "green onion",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "purple cabbage",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "garbanzo beans",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "sesame seeds",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "soy sauce",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "orange",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "orange",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,5",
+                "name": "honey",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/03/05/sesame-orange-chickpeas-cabbage-and-soba-noodles/",
+        "image": "http://cdn.naturallyella.com/files/2012/03/IMG_1276-300x200.jpg",
+        "totalTime": "25",
+        "recipeCategory": "Vegetarian Main Course"
+    },
+    {
+        "id": "51607d4e96cc6208dde658ea",
+        "name": "Sweet Potato and Gorgonzola Farro Risotto",
+        "ingredients": [
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "1",
+                "name": "sweet potato",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,75",
+                "name": "farro",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "shallot",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,25",
+                "name": "dry white wine",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "low sodium vegetable broth",
+                "measure": "cup"
+            },
+            {
+                "amount": "2",
+                "name": "water",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,25",
+                "name": "gorgonzola",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2012/01/11/sweet-potato-and-gorgonzola-farro-risotto/",
+        "image": "http://cdn.naturallyella.com/files/2012/01/IMG_8215-272x300.jpg",
+        "totalTime": "60",
+        "recipeCategory": "Vegetarian Main Course"
+    },
+    {
+        "id": "51607db696cc6208dde65911",
+        "name": "Ricotta Stuffed Shells with Roasted Tomato Sauce",
+        "ingredients": [
+            {
+                "amount": "4",
+                "name": "cherry tomato",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "white onion",
+                "measure": "piece"
+            },
+            {
+                "amount": "20",
+                "name": "garlic",
+                "measure": "gramm"
+            },
+            {
+                "amount": "2",
+                "name": "olive oil",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,25",
+                "name": "fresh basil",
+                "measure": "cup"
+            },
+            {
+                "amount": "200",
+                "name": "pasta shells",
+                "measure": "gramm"
+            },
+            {
+                "amount": "500",
+                "name": "ricotta cheese",
+                "measure": "gramm"
+            },
+            {
+                "amount": "1",
+                "name": "egg",
+                "measure": "piece"
+            },
+            {
+                "amount": "0,75",
+                "name": "gouda",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,75",
+                "name": "fontina",
+                "measure": "cup"
+            },
+            {
+                "amount": "0,5",
+                "name": "parmesan cheese",
+                "measure": "cup"
+            },
+            {
+                "amount": "1",
+                "name": "oregano",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "salt",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,1",
+                "name": "pepper",
+                "measure": "tablespoon"
+            },
+            {
+                "amount": "0,5",
+                "name": "basil",
+                "measure": "teaspoon"
+            }
+        ],
+        "url": "http://naturallyella.com/2011/08/10/ricotta-stuffed-shells-with-roasted-tomato-sauce/",
+        "image": "http://cdn.naturallyella.com/files/2011/08/stuffed-shells-300x200.jpg",
+        "totalTime": "50",
+        "recipeCategory": "Vegetarian Main Course"
+    }
+]
