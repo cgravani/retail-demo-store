@@ -31,10 +31,7 @@ age_dist = truncnorm((age_min - age_mean) / age_sd, (age_max - age_mean) / age_s
 
 # Persona combinations ordered from strongest affinity to latent interest.
 category_preference_personas = [
-    'vegeterian', 'vegan',
-    'halal', 'kosher',
-    'low-sugar', 'pescatarian',
-    'keto','low-fat'
+    'food_food_food'
 ]
 
 discount_personas = [
