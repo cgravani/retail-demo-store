@@ -79,10 +79,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2011/06/08/chocolate-covered-strawberry-cupcakes/",
         "image": "http://cdn.naturallyella.com/files/2011/06/straw-chocolate-cupcakes-200x300.jpg",
         "totalTime": "70",
-        "recipeCategory": "Dessert"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160805096cc6208dde65a03",
@@ -154,10 +155,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2012/06/18/black-raspberry-oat-scones/",
         "image": "http://cdn.naturallyella.com/files/2012/06/scones-3-200x300.jpg",
         "totalTime": "35",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607dba96cc6208dde65913",
@@ -219,10 +221,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2011/10/03/quinoa-cabbage-and-garbanzo-beans/",
         "image": "http://cdn.naturallyella.com/files/2011/10/quinoa-cabbage-300x200.jpg",
         "totalTime": "25",
-        "recipeCategory": "Vegetarian Main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607f0396cc6208dde6598e",
@@ -294,10 +297,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2011/08/22/roasted-peach-cupcake-with-vanilla-buttercream/",
         "image": "http://cdn.naturallyella.com/files/2011/08/peach-cupcake-300x200.jpg",
         "totalTime": "75",
-        "recipeCategory": "dessert"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607d5796cc6208dde658ee",
@@ -384,10 +388,11 @@
                 "measure": "teaspoon"
             }
         ],
-        "url": "http://naturallyella.com/2010/07/15/sweet-and-sour-stuffed-pepper/",
         "image": "http://cdn.naturallyella.com/files/2010/07/stuffed-pepper-300x199.jpg",
         "totalTime": "90",
-        "recipeCategory": "Main Dishes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e3d96cc6208dde65949",
@@ -444,10 +449,11 @@
                 "measure": "teaspoon"
             }
         ],
-        "url": "http://naturallyella.com/2012/02/27/brussel-sprout-fig-and-feta-ravioli-video/",
         "image": "http://cdn.naturallyella.com/files/2012/02/IMG_0620-300x200.jpg",
         "totalTime": "30",
-        "recipeCategory": "Vegetarian Dinner"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607db196cc6208dde6590f",
@@ -509,10 +515,11 @@
                 "measure": "gramm"
             }
         ],
-        "url": "http://naturallyella.com/2011/10/12/roasted-acorn-squash-stuffed-shells/",
         "image": "http://cdn.naturallyella.com/files/2011/10/IMG_4096-300x200.jpg",
         "totalTime": "30",
-        "recipeCategory": "Vegetarian Main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "516080b096cc6208dde65a27",
@@ -549,10 +556,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2011/03/17/roasted-mango-habanero-salsa/",
         "image": "http://cdn.naturallyella.com/files/2011/03/mango-habenero-salsa-200x300.jpg",
         "totalTime": "45",
-        "recipeCategory": "Appetizer"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e7196cc6208dde6595d",
@@ -604,10 +612,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2011/11/08/roasted-butternut-squash-soup/",
         "image": "http://cdn.naturallyella.com/files/2011/10/bs-soup-300x200.jpg",
         "totalTime": "60",
-        "recipeCategory": "Soup"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607d6f96cc6208dde658f7",
@@ -699,10 +708,11 @@
                 "measure": "mililiter"
             }
         ],
-        "url": "http://naturallyella.com/2012/08/13/spiced-corn-and-chickpea-samosas/",
         "image": "http://cdn.naturallyella.com/files/2012/08/samosas-300x300.jpg",
         "totalTime": "100",
-        "recipeCategory": "Appetizer"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607d4896cc6208dde658e8",
@@ -759,10 +769,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2011/10/07/sweet-potato-and-spinach-burrito/",
         "image": "http://cdn.naturallyella.com/files/2011/10/burrito-300x200.jpg",
         "totalTime": "25",
-        "recipeCategory": "Vegetarian Main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e2b96cc6208dde65941",
@@ -809,10 +820,11 @@
                 "measure": "gramm"
             }
         ],
-        "url": "http://naturallyella.com/2011/10/05/butternut-squash-mac-and-cheese/",
         "image": "http://cdn.naturallyella.com/files/2011/10/bs-mac-and-cheese-300x200.jpg",
         "totalTime": "40",
-        "recipeCategory": "Vegetarian Main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607d5296cc6208dde658ec",
@@ -889,10 +901,11 @@
                 "measure": "gramm"
             }
         ],
-        "url": "http://naturallyella.com/2011/12/05/sweet-potato-and-chickpea-stew-with-quinoa/",
         "image": "http://cdn.naturallyella.com/files/2011/12/IMG_6825-300x200.jpg",
         "totalTime": "25",
-        "recipeCategory": "Vegetarian Main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607d6a96cc6208dde658f5",
@@ -984,10 +997,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2010/01/06/spinach-and-artichoke-ravioli/",
         "image": "http://cdn.naturallyella.com/files/2010/01/ravioli-300x200.jpg",
         "totalTime": "60",
-        "recipeCategory": "Pasta"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607eb396cc6208dde65975",
@@ -1034,10 +1048,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2012/05/10/maple-roasted-beet-and-goat-cheese-salad/",
         "image": "http://cdn.naturallyella.com/files/2012/05/IMG_6013-300x200.jpg",
         "totalTime": "65",
-        "recipeCategory": "Salad"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607ecc96cc6208dde6597d",
@@ -1079,10 +1094,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2010/07/31/peanut-butter-dog-treats/",
         "image": "http://cdn.naturallyella.com/files/2010/07/radar3-300x199.jpg",
         "totalTime": "30",
-        "recipeCategory": "Miscellaneous"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607f6f96cc6208dde659ad",
@@ -1144,10 +1160,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2010/03/05/snickerdoodles/",
         "image": "http://cdn.naturallyella.com/files/2010/03/snickerdoodles-300x200.jpg",
         "totalTime": "25",
-        "recipeCategory": "Cookies/Brownies"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160803196cc6208dde659f8",
@@ -1214,10 +1231,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2011/04/18/cinnamon-pull-apart-fantails/",
         "image": "http://cdn.naturallyella.com/files/2011/04/fantails-300x200.jpg",
         "totalTime": "2H20",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e4096cc6208dde6594a",
@@ -1319,10 +1337,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2010/09/26/brazilian-vegetable-feijoada/",
         "image": "http://cdn.naturallyella.com/files/2010/09/brazil-veg-300x200.jpg",
         "totalTime": "45",
-        "recipeCategory": "Main Dishes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e8196cc6208dde65962",
@@ -1374,10 +1393,11 @@
                 "measure": "teaspoon"
             }
         ],
-        "url": "http://naturallyella.com/2012/10/08/curried-pumpkin-and-coconut-soup/",
         "image": "http://cdn.naturallyella.com/files/2012/10/IMG_8530-200x300.jpg",
         "totalTime": "70",
-        "recipeCategory": "Soup"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607f7496cc6208dde659af",
@@ -1449,10 +1469,11 @@
                 "measure": "teaspoon"
             }
         ],
-        "url": "http://naturallyella.com/2011/10/18/pumpkin-hemp-cookies/",
         "image": "http://cdn.naturallyella.com/files/2011/10/IMG_4294-200x300.jpg",
         "totalTime": "25",
-        "recipeCategory": "Cookies"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607d7796cc6208dde658fa",
@@ -1504,10 +1525,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2012/12/12/shaved-brussels-sprouts-and-soba-noodles-with-ginger-honey-sauce/",
         "image": "http://cdn.naturallyella.com/files/2012/12/IMG_0452-199x300.jpg",
         "totalTime": "15",
-        "recipeCategory": "Dinner"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e3396cc6208dde65944",
@@ -1564,10 +1586,11 @@
                 "measure": "gramm"
             }
         ],
-        "url": "http://naturallyella.com/2012/09/24/butternut-squash-and-goat-cheese-crostini/",
         "image": "http://cdn.naturallyella.com/files/2012/09/IMG_7898-200x300.jpg",
         "totalTime": "40",
-        "recipeCategory": "Lunch"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607f5c96cc6208dde659a6",
@@ -1594,10 +1617,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2010/06/26/black-raspberry-sorbet/",
         "image": "http://cdn.naturallyella.com/files/2010/06/black-rasp-sorbet-300x199.jpg",
         "totalTime": "35",
-        "recipeCategory": "Desserts"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607d1396cc6208dde658d7",
@@ -1654,10 +1678,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2012/02/23/twice-baked-jalapeno-poppers/",
         "image": "http://cdn.naturallyella.com/files/2012/02/IMG_9953-300x200.jpg",
         "totalTime": "60",
-        "recipeCategory": "Appetizer"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "517f09af96cc6251b7d42dbc",
@@ -1754,10 +1779,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2013/04/29/roasted-butternut-squash-quinoa-and-jalapeno-chimichurri-tacos/",
         "image": "http://cdn.naturallyella.com/files/2013/04/IMG_8207-213x300.jpg",
         "totalTime": "40",
-        "recipeCategory": "Dinner"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e6c96cc6208dde6595b",
@@ -1824,10 +1850,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2011/10/19/roasted-garlic-and-tomato-soup/",
         "image": "http://cdn.naturallyella.com/files/2011/10/tomato-garlic-soup-200x300.jpg",
         "totalTime": "70",
-        "recipeCategory": "soup"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "519fff2896cc620aa3bf20b7",
@@ -1874,10 +1901,11 @@
                 "measure": "piece"
             }
         ],
-        "url": "http://naturallyella.com/2013/05/24/grilled-corn-onion-and-whipped-cilantro-goat-cheese-quesadilla/",
         "image": "http://cdn.naturallyella.com/files/2013/05/IMG_9337-2-200x300.jpg",
         "totalTime": "30",
-        "recipeCategory": "Dinner"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607dd396cc6208dde6591d",
@@ -1929,10 +1957,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2012/04/27/kale-and-couscous-with-green-garlic-dressing/",
         "image": "http://cdn.naturallyella.com/files/2012/04/IMG_4206-200x300.jpg",
         "totalTime": "30",
-        "recipeCategory": "Vegetarian main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607dc496cc6208dde65917",
@@ -1989,10 +2018,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2010/10/05/pear-walnut-and-gorgonzola-salad/",
         "image": "http://cdn.naturallyella.com/files/2010/10/pear-salad-300x200.jpg",
         "totalTime": "25",
-        "recipeCategory": "Side Dishes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607dde96cc6208dde65920",
@@ -2054,10 +2084,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2011/07/20/homemade-marinara-and-whole-wheat-pasta/",
         "image": "http://cdn.naturallyella.com/files/2011/07/marinara-300x200.jpg",
         "totalTime": "2H",
-        "recipeCategory": "Vegetarian Entree"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e3b96cc6208dde65948",
@@ -2099,10 +2130,11 @@
                 "measure": "gramm"
             }
         ],
-        "url": "http://naturallyella.com/2010/12/20/brussel-sprouts-with-lemon-pasta/",
         "image": "http://cdn.naturallyella.com/files/2010/12/lemon-brussel-sprouts-300x200.jpg",
         "totalTime": "20",
-        "recipeCategory": "Main Dishes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e2996cc6208dde65940",
@@ -2199,10 +2231,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2010/09/02/butternut-squash-ravioli/",
         "image": "http://cdn.naturallyella.com/files/2010/09/bs-ravioli-300x200.jpg",
         "totalTime": "75",
-        "recipeCategory": "Main Dishes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607f0096cc6208dde6598d",
@@ -2264,10 +2297,11 @@
                 "measure": "teaspoon"
             }
         ],
-        "url": "http://naturallyella.com/2010/07/18/smores/",
         "image": "http://cdn.naturallyella.com/files/2010/07/smore-300x220.jpg",
         "totalTime": "110",
-        "recipeCategory": "Miscellaneous"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607de896cc6208dde65924",
@@ -2304,10 +2338,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2012/12/19/garlic-butter-pasta-with-spinach-and-parmesan/",
         "image": "http://cdn.naturallyella.com/files/2012/12/IMG_0500-200x300.jpg",
         "totalTime": "25",
-        "recipeCategory": "Vegetarian Main"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160806096cc6208dde65a0a",
@@ -2369,10 +2404,11 @@
                 "measure": "teaspoon"
             }
         ],
-        "url": "http://naturallyella.com/2010/02/11/baked-doughnuts-for-your-valentine/",
         "image": "http://cdn.naturallyella.com/files/2010/02/Doughnut-1-300x200.jpg",
         "totalTime": "25",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607d9e96cc6208dde65908",
@@ -2464,10 +2500,11 @@
                 "measure": "teaspoon"
             }
         ],
-        "url": "http://naturallyella.com/2012/05/07/roasted-radish-and-ricotta-pizza-on-cracker-crust/",
         "image": "http://cdn.naturallyella.com/files/2012/05/IMG_5820-300x200.jpg",
         "totalTime": "65",
-        "recipeCategory": "Vegetarian Main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160804496cc6208dde659ff",
@@ -2544,10 +2581,11 @@
                 "measure": "piece"
             }
         ],
-        "url": "http://naturallyella.com/2012/04/02/breakfast-tacos-with-kale-cilantro-chimichurri-sauce/",
         "image": "http://cdn.naturallyella.com/files/2012/04/IMG_3246-200x300.jpg",
         "totalTime": "45",
-        "recipeCategory": "breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607df896cc6208dde6592b",
@@ -2624,10 +2662,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2010/06/04/crepe-manicotti/",
         "image": "http://cdn.naturallyella.com/files/2010/06/manicotti-300x199.jpg",
         "totalTime": "55",
-        "recipeCategory": "Main Dishes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e6296cc6208dde65957",
@@ -2679,10 +2718,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2010/01/18/spinach-bisque/",
         "image": "http://cdn.naturallyella.com/files/2010/01/spinach-bisque-300x200.jpg",
         "totalTime": "45",
-        "recipeCategory": "Soups"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e9696cc6208dde6596a",
@@ -2734,10 +2774,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2010/05/17/asparagus-soup/",
         "image": "http://cdn.naturallyella.com/files/2010/05/asparagus-300x199.jpg",
         "totalTime": "30",
-        "recipeCategory": "Soups"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e9996cc6208dde6596b",
@@ -2784,10 +2825,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2012/07/20/summer-farro-salad/",
         "image": "http://cdn.naturallyella.com/files/2012/07/IMG_3962200x300.jpg",
         "totalTime": "35",
-        "recipeCategory": "Salad"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160803c96cc6208dde659fb",
@@ -2844,10 +2886,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2010/06/28/candied-ginger-zucchini-muffins/",
         "image": "http://cdn.naturallyella.com/files/2010/06/zucchini-ginger-muffins-300x199.jpg",
         "totalTime": "30",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607fab96cc6208dde659c5",
@@ -2889,10 +2932,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2010/09/07/strawberry-hemp-granola/",
         "image": "http://cdn.naturallyella.com/files/2010/09/strawberry-hemp-granola-300x200.jpg",
         "totalTime": "70",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e6a96cc6208dde6595a",
@@ -2949,10 +2993,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2011/02/24/roasted-poblano-and-potato-soup/",
         "image": "http://cdn.naturallyella.com/files/2011/02/poblano-soup1-300x200.jpg",
         "totalTime": "40",
-        "recipeCategory": "Soup"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e4596cc6208dde6594c",
@@ -2984,10 +3029,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2010/02/24/black-bean-and-guac-burrito/",
         "image": "http://cdn.naturallyella.com/files/2010/02/guac-burritos-300x200.jpg",
         "totalTime": "25",
-        "recipeCategory": "Main Dishes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607fc896cc6208dde659d0",
@@ -3039,10 +3085,11 @@
                 "measure": "teaspoon"
             }
         ],
-        "url": "http://naturallyella.com/2012/09/10/roasted-potato-onion-and-rosemary-crustless-quiche/",
         "image": "http://cdn.naturallyella.com/files/2012/09/IMG_7042-200x300.jpg",
         "totalTime": "105",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "516080b596cc6208dde65a29",
@@ -3104,10 +3151,11 @@
                 "measure": "mililiter"
             }
         ],
-        "url": "http://naturallyella.com/2011/07/19/roasted-corn-and-cream-cheese-baked-potstickers/",
         "image": "http://cdn.naturallyella.com/files/2011/07/corn-potsticker-300x200.jpg",
         "totalTime": "40",
-        "recipeCategory": "Appetizers"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160802996cc6208dde659f5",
@@ -3174,10 +3222,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2010/07/30/coconut-carrot-bread/",
         "image": "http://cdn.naturallyella.com/files/2010/07/carrot-bread-300x199.jpg",
         "totalTime": "70",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e8896cc6208dde65964",
@@ -3239,10 +3288,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2010/07/22/creamy-roasted-corn-soup/",
         "image": "http://cdn.naturallyella.com/files/2010/07/roasted-corn-soup-300x199.jpg",
         "totalTime": "40",
-        "recipeCategory": "Main Dishes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607f5e96cc6208dde659a7",
@@ -3284,10 +3334,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2012/05/28/black-raspberry-and-vanilla-bean-ice-cream/",
         "image": "http://cdn.naturallyella.com/files/2012/05/IMG_7468-200x300.jpg",
         "totalTime": "45",
-        "recipeCategory": "Dessert"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607dcc96cc6208dde6591a",
@@ -3369,10 +3420,11 @@
                 "measure": "piece"
             }
         ],
-        "url": "http://naturallyella.com/2012/05/23/lentil-and-swiss-chard-tacos-with-homemade-corn-tortilla/",
         "image": "http://cdn.naturallyella.com/files/2012/05/IMG_7404-300x200.jpg",
         "totalTime": "55",
-        "recipeCategory": "Vegetarian Main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e0b96cc6208dde65934",
@@ -3434,10 +3486,11 @@
                 "measure": "piece"
             }
         ],
-        "url": "http://naturallyella.com/2012/02/03/chipotle-black-bean-corn-and-rice-bowl/",
         "image": "http://cdn.naturallyella.com/files/2012/02/IMG_8934-200x300.jpg",
         "totalTime": "20",
-        "recipeCategory": "Vegetarian Main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "516080a796cc6208dde65a23",
@@ -3474,10 +3527,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2009/07/12/roasted-tomato-salsa/",
         "image": "http://cdn.naturallyella.com/files/2009/07/roasted-tomato-salsa-300x199.jpg",
         "totalTime": "55",
-        "recipeCategory": "Appetizers"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607ee296cc6208dde65984",
@@ -3509,10 +3563,11 @@
                 "measure": "teaspoon"
             }
         ],
-        "url": "http://naturallyella.com/2012/02/13/coconut-curry-popcorn/",
         "image": "http://cdn.naturallyella.com/files/2012/02/IMG_9764-300x200.jpg",
         "totalTime": "10",
-        "recipeCategory": "snack"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e4296cc6208dde6594b",
@@ -3579,10 +3634,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2010/06/10/black-bean-burgers/",
         "image": "http://cdn.naturallyella.com/files/2010/06/black-bean-burger-300x199.jpg",
         "totalTime": "30",
-        "recipeCategory": "Main Dishes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607df496cc6208dde6592a",
@@ -3644,10 +3700,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2012/11/07/curried-butternut-squash-and-brown-rice-skillet/",
         "image": "http://cdn.naturallyella.com/files/2012/11/IMG_9528-200x300.jpg",
         "totalTime": "55",
-        "recipeCategory": "vegetarian main course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607faf96cc6208dde659c7",
@@ -3709,10 +3766,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2011/02/15/strawberry-and-chocolate-chip-scones/",
         "image": "http://cdn.naturallyella.com/files/2011/02/strawberrycc-scones-300x200.jpg",
         "totalTime": "25",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607ee596cc6208dde65985",
@@ -3764,10 +3822,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2011/01/14/chai-tea/",
         "image": "http://cdn.naturallyella.com/files/2011/01/chai-tea-300x200.jpg",
         "totalTime": "30",
-        "recipeCategory": "Main Dishes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160804296cc6208dde659fe",
@@ -3824,10 +3883,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2013/02/11/brown-butter-and-pecan-pancakes/",
         "image": "http://cdn.naturallyella.com/files/2013/02/IMG_4192-200x300.jpg",
         "totalTime": "30",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607fce96cc6208dde659d3",
@@ -3894,10 +3954,11 @@
                 "measure": "mililiter"
             }
         ],
-        "url": "http://naturallyella.com/2012/03/07/roasted-banana-whole-wheat-pancakes/",
         "image": "http://cdn.naturallyella.com/files/2012/03/pancake-3-200x300.jpg",
         "totalTime": "40",
-        "recipeCategory": "breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "519d5c2096cc6202ef1e713f",
@@ -3934,10 +3995,11 @@
                 "measure": "gramm"
             }
         ],
-        "url": "http://naturallyella.com/2013/05/22/creamy-gorgonzola-rice-and-roasted-cauliflower/",
         "image": "http://cdn.naturallyella.com/files/2013/05/IMG_8955-195x300.jpg",
         "totalTime": "50",
-        "recipeCategory": "Lunch"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607f3096cc6208dde65999",
@@ -4014,10 +4076,11 @@
                 "measure": "gramm"
             }
         ],
-        "url": "http://naturallyella.com/2011/01/02/eggnog-cupcakes/",
         "image": "http://cdn.naturallyella.com/files/2011/01/eggnog-cupcakes-300x200.jpg",
         "totalTime": "35",
-        "recipeCategory": "Cakes/Cupcakes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607f7296cc6208dde659ae",
@@ -4074,10 +4137,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2011/10/31/pumpkin-spice-sugar-cookies/",
         "image": "http://cdn.naturallyella.com/files/2011/10/IMG_5999270x300.jpg",
         "totalTime": "25",
-        "recipeCategory": "Cookie"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607f1896cc6208dde65994",
@@ -4159,10 +4223,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2010/11/11/moundalmond-joy-cupcakes/",
         "image": "http://cdn.naturallyella.com/files/2010/11/almond-joy-cupcakes-300x200.jpg",
         "totalTime": "50",
-        "recipeCategory": "Desserts"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607dea96cc6208dde65925",
@@ -4214,10 +4279,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2011/04/04/gallo-pinto/",
         "image": "http://cdn.naturallyella.com/files/2011/04/gallo-pinto-300x200.jpg",
         "totalTime": "45",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607dcf96cc6208dde6591c",
@@ -4294,10 +4360,11 @@
                 "measure": "teaspoon"
             }
         ],
-        "url": "http://naturallyella.com/2012/04/18/kale-and-feta-galette/",
         "image": "http://cdn.naturallyella.com/files/2012/04/IMG_4456-300x200.jpg",
         "totalTime": "65",
-        "recipeCategory": "Vegetarian Main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160802396cc6208dde659f3",
@@ -4359,10 +4426,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2011/03/08/coconut-pineapple-muffins/",
         "image": "http://cdn.naturallyella.com/files/2011/03/coconut-pineapple-300x200.jpg",
         "totalTime": "30",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160800a96cc6208dde659eb",
@@ -4424,10 +4492,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2010/04/12/lemon-poppy-seed-pancakes/",
         "image": "http://cdn.naturallyella.com/files/2010/04/lemon-poppyseed-pancakes-300x200.jpg",
         "totalTime": "25",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607d9c96cc6208dde65907",
@@ -4504,10 +4573,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2010/08/16/roasted-red-pepper-pasta-sauce/",
         "image": "http://cdn.naturallyella.com/files/2010/08/red-pepper-sauce-300x199.jpg",
         "totalTime": "30",
-        "recipeCategory": "Main Dishes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607ffc96cc6208dde659e5",
@@ -4574,10 +4644,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2011/00,53/orange-and-dark-chocolate-buttermilk-scones/",
         "image": "http://cdn.naturallyella.com/files/2011/01/cc-scones-300x200.jpg",
         "totalTime": "25",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e2e96cc6208dde65942",
@@ -4674,10 +4745,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2010/09/22/butternut-squash-jambalaya-vegan/",
         "image": "http://cdn.naturallyella.com/files/2010/09/sp-jumbalaya-300x200.jpg",
         "totalTime": "40",
-        "recipeCategory": "Main Dishes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160805296cc6208dde65a04",
@@ -4729,10 +4801,11 @@
                 "measure": "teaspoon"
             }
         ],
-        "url": "http://naturallyella.com/2013/02/22/barley-crepes-with-yogurt-and-cinnamon-honey-banana/",
         "image": "http://cdn.naturallyella.com/files/2013/02/IMG_5236-2-200x300.jpg",
         "totalTime": "15",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160806e96cc6208dde65a10",
@@ -4779,10 +4852,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2010/06/27/whole-wheat-sesame-bagels/",
         "image": "http://cdn.naturallyella.com/files/2010/06/bagels-300x199.jpg",
         "totalTime": "85",
-        "recipeCategory": "Bread"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "516080d496cc6208dde65a32",
@@ -4844,10 +4918,11 @@
                 "measure": "mililiter"
             }
         ],
-        "url": "http://naturallyella.com/2011/04/20/bakedsweetpotatopotstickers/",
         "image": "http://cdn.naturallyella.com/files/2011/04/potstickers-200x300.jpg",
         "totalTime": "80",
-        "recipeCategory": "Appetizer"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51c2462496cc624ab84367e6",
@@ -4899,10 +4974,11 @@
                 "measure": "teaspoon"
             }
         ],
-        "url": "http://naturallyella.com/2013/06/19/roasted-cherry-barley-and-goat-cheese-salad/",
         "image": "http://cdn.naturallyella.com/files/2013/06/IMG_1254-433x650.jpg",
         "totalTime": "55",
-        "recipeCategory": "Salad"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e9e96cc6208dde6596e",
@@ -4954,10 +5030,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2012/1,58/roasted-sweet-potato-spinach-and-grain-salad/",
         "image": "http://cdn.naturallyella.com/files/2012/11/IMG_0133-199x300.jpg",
         "totalTime": "40",
-        "recipeCategory": "Lunch"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e1796cc6208dde65939",
@@ -5029,10 +5106,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2009/10,660/cold-weather-warm-food/",
         "image": "http://cdn.naturallyella.com/files/2009/12/cauliflower-bake-300x200.jpg",
         "totalTime": "35",
-        "recipeCategory": "Side Dishes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160807b96cc6208dde65a13",
@@ -5084,10 +5162,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2010/05/25/seeded-bread/",
         "image": "http://cdn.naturallyella.com/files/2010/05/seeded-bread-199x300.jpg",
         "totalTime": "3H15",
-        "recipeCategory": "Bread"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607d8e96cc6208dde65903",
@@ -5139,10 +5218,11 @@
                 "measure": "mililiter"
             }
         ],
-        "url": "http://naturallyella.com/2012/07/09/roasted-tomato-and-egg-grilled-cheese-sandwich/",
         "image": "http://cdn.naturallyella.com/files/2012/07/grilled-cheese-300x200.jpg",
         "totalTime": "85",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607f9c96cc6208dde659be",
@@ -5194,10 +5274,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2011/06/13/swiss-chard-and-feta-frittata/",
         "image": "http://cdn.naturallyella.com/files/2011/06/fritatta-200x300.jpg",
         "totalTime": "20",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51b90ba696cc622462b80fde",
@@ -5284,10 +5365,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2013/06/12/honey-mustard-veggie-kabobs-with-garlic-quinoa/",
         "image": "http://cdn.naturallyella.com/files/2013/06/IMG_0823,533x650.jpg",
         "totalTime": "40",
-        "recipeCategory": "Dinner"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607df296cc6208dde65929",
@@ -5404,10 +5486,11 @@
                 "measure": "gramm"
             }
         ],
-        "url": "http://naturallyella.com/2012/05/16/curried-lentils-and-rhubarb-chutney/",
         "image": "http://cdn.naturallyella.com/files/2012/05/IMG_6526-200x300.jpg",
         "totalTime": "60",
-        "recipeCategory": "Vegetarian Main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160804e96cc6208dde65a02",
@@ -5454,10 +5537,11 @@
                 "measure": "piece"
             }
         ],
-        "url": "http://naturallyella.com/2012/07/02/black-eyed-peas-and-dill-potato-skillet/",
         "image": "http://cdn.naturallyella.com/files/2012/07/skillet-2-200x300.jpg",
         "totalTime": "35",
-        "recipeCategory": "breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607d6496cc6208dde658f2",
@@ -5509,10 +5593,11 @@
                 "measure": "piece"
             }
         ],
-        "url": "http://naturallyella.com/2013/03/05/sriracha-marinated-butternut-squash-and-black-bean-tacos/",
         "image": "http://cdn.naturallyella.com/files/2013/03/IMG_5544-197x300.jpg",
         "totalTime": "2H30",
-        "recipeCategory": "Dinner"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607d7c96cc6208dde658fc",
@@ -5549,10 +5634,11 @@
                 "measure": "gramm"
             }
         ],
-        "url": "http://naturallyella.com/2012/04/16/shaved-asparagus-and-gorgonzola-pizza/",
         "image": "http://cdn.naturallyella.com/files/2012/04/asparagus-1-300x240.jpg",
         "totalTime": "30",
-        "recipeCategory": "Vegetarian Main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607fa096cc6208dde659c0",
@@ -5644,10 +5730,11 @@
                 "measure": "gramm"
             }
         ],
-        "url": "http://naturallyella.com/2012/03/19/sweet-potato-cakes-with-curried-tomato-sauce-and-poached-egg/",
         "image": "http://cdn.naturallyella.com/files/2012/03/IMG_2698-200x300.jpg",
         "totalTime": "35",
-        "recipeCategory": "vegetarian main course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e5096cc6208dde65950",
@@ -5714,10 +5801,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2011/00,58/baked-black-bean-taquitos/",
         "image": "http://cdn.naturallyella.com/files/2011/01/taquitos-200x300.jpg",
         "totalTime": "30",
-        "recipeCategory": "Main Dishes"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607e3196cc6208dde65943",
@@ -5804,10 +5892,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2011/11/01/butternut-squash-and-lentil-pot-pie/",
         "image": "http://cdn.naturallyella.com/files/2011/10/pot-pie-200x300.jpg",
         "totalTime": "65",
-        "recipeCategory": "vegetarian main course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607f7f96cc6208dde659b3",
@@ -5844,10 +5933,11 @@
                 "measure": "cup"
             }
         ],
-        "url": "http://naturallyella.com/2010/05/11/lime-sugar-cookies/",
         "image": "http://cdn.naturallyella.com/files/2010/05/lime-cookie-300x200.jpg",
         "totalTime": "30",
-        "recipeCategory": "Cookies/Brownies"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607fe896cc6208dde659de",
@@ -5879,10 +5969,11 @@
                 "measure": "piece"
             }
         ],
-        "url": "http://naturallyella.com/2012/1,56/potato-masala-and-egg-skillet/",
         "image": "http://cdn.naturallyella.com/files/2012/11/IMG_0011-199x300.jpg",
         "totalTime": "20",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607f9696cc6208dde659bb",
@@ -5949,10 +6040,11 @@
                 "measure": "gramm"
             }
         ],
-        "url": "http://naturallyella.com/2012/08/15/vanilla-bean-pancakes-with-maple-butter-pears/",
         "image": "http://cdn.naturallyella.com/files/2012/08/IMG_5812-200x300.jpg",
         "totalTime": "40",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160758896cc6207aada3235",
@@ -6004,10 +6096,11 @@
                 "measure": "gramm"
             }
         ],
-        "url": "http://naturallyella.com/2013/04/03/roasted-asparagus-green-onion-and-blue-cheese-frittata/",
         "image": "http://cdn.naturallyella.com/files/2013/04/IMG_7166-2-200x300.jpg",
         "totalTime": "35",
-        "recipeCategory": "Breakfast"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "518d8a2496cc6279335b6861",
@@ -6074,10 +6167,11 @@
                 "measure": "gramm"
             }
         ],
-        "url": "http://naturallyella.com/2013/05/10/curried-cauliflower-pizza/",
         "image": "http://cdn.naturallyella.com/files/2013/05/IMG_8473-2-200x300.jpg",
         "totalTime": "60",
-        "recipeCategory": "Dinner"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "519ab92196cc62512722a273",
@@ -6144,10 +6238,11 @@
                 "measure": "gramm"
             }
         ],
-        "url": "http://naturallyella.com/2013/05/20/caramelized-cauliflower-roasted-red-pepper-and-quinoa-salad/",
         "image": "http://cdn.naturallyella.com/files/2013/05/IMG_8612-200x300.jpg",
         "totalTime": "45",
-        "recipeCategory": "Salad"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160809d96cc6208dde65a1f",
@@ -6224,10 +6319,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2010/03/04/spinach-and-artichoke-dip/",
         "image": "http://cdn.naturallyella.com/files/2010/03/spin-dip-300x200.jpg",
         "totalTime": "45",
-        "recipeCategory": "Appetizers"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "5160807d96cc6208dde65a14",
@@ -6289,10 +6385,11 @@
                 "measure": "piece"
             }
         ],
-        "url": "http://naturallyella.com/2012/04/13/rye-maple-muffins/",
         "image": "http://cdn.naturallyella.com/files/2012/04/IMG_3268-200x300.jpg",
         "totalTime": "30",
-        "recipeCategory": "Baked Goods"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607d8496cc6208dde658ff",
@@ -6349,10 +6446,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2012/03/05/sesame-orange-chickpeas-cabbage-and-soba-noodles/",
         "image": "http://cdn.naturallyella.com/files/2012/03/IMG_1276-300x200.jpg",
         "totalTime": "25",
-        "recipeCategory": "Vegetarian Main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607d4e96cc6208dde658ea",
@@ -6409,10 +6507,11 @@
                 "measure": "tablespoon"
             }
         ],
-        "url": "http://naturallyella.com/2012/01/11/sweet-potato-and-gorgonzola-farro-risotto/",
         "image": "http://cdn.naturallyella.com/files/2012/01/IMG_8215-272x300.jpg",
         "totalTime": "60",
-        "recipeCategory": "Vegetarian Main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     },
     {
         "id": "51607db696cc6208dde65911",
@@ -6494,9 +6593,10 @@
                 "measure": "teaspoon"
             }
         ],
-        "url": "http://naturallyella.com/2011/08/10/ricotta-stuffed-shells-with-roasted-tomato-sauce/",
         "image": "http://cdn.naturallyella.com/files/2011/08/stuffed-shells-300x200.jpg",
         "totalTime": "50",
-        "recipeCategory": "Vegetarian Main Course"
+        "category": "food",
+        "gender_affinity": null,
+        "price": 40
     }
 ]

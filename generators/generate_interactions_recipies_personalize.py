@@ -57,15 +57,14 @@ NORMALISE_PER_PRODUCT_WEIGHT = 1.0
 DISCOUNT_PROBABILITY = 0.2
 DISCOUNT_PROBABILITY_WITH_PREFERENCE = 0.5
 
-IN_PRODUCTS_FILENAME = "src/products/src/products-service/data/products.yaml"
+IN_PRODUCTS_FILENAME = "src/products/src/products-service/data/recipies.yaml"
 IN_USERS_FILENAME = "src/users/src/users-service/data/users.json.gz"
 
 PROGRESS_MONITOR_SECONDS_UPDATE = 30
 
 # This is where stage.sh will pick them up from
-out_items_filename = f"{GENERATED_DATA_ROOT}/items.csv"
-out_users_filename = f"{GENERATED_DATA_ROOT}/users.csv"
-out_interactions_filename = f"{GENERATED_DATA_ROOT}/interactions.csv"
+out_items_filename = f"{GENERATED_DATA_ROOT}/recipies.csv"
+out_interactions_filename = f"{GENERATED_DATA_ROOT}/interactions_recipies.csv"
 
 # The meaning of the below constants is described in the relevant notebook.
 
@@ -80,10 +79,9 @@ checkout_started_percent = .02
 order_completed_percent = .01
 
 
-def generate_user_items(out_users_filename, out_items_filename, in_users_filename, in_products_filename):
+def generate_user_items(out_items_filename, in_users_filename, in_products_filename):
 
     Path(out_items_filename).parents[0].mkdir(parents=True, exist_ok=True)
-    Path(out_users_filename).parents[0].mkdir(parents=True, exist_ok=True)
 
     # Product info is stored in the repository
     with open(in_products_filename, 'r') as f:
@@ -97,10 +95,9 @@ def generate_user_items(out_users_filename, out_items_filename, in_users_filenam
 
     users_df = pd.DataFrame(users)
 
-    products_dataset_df = products_df[['id', 'category', 'style']]
+    products_dataset_df = products_df[['id', 'category']]
     products_dataset_df = products_dataset_df.rename(columns={'id': 'ITEM_ID',
-                                                              'category': 'CATEGORY',
-                                                              'style': 'STYLE'})
+                                                              'category': 'CATEGORY'})
     products_dataset_df.to_csv(out_items_filename, index=False)
 
     users_dataset_df = users_df[['id', 'age', 'gender']]
@@ -108,7 +105,6 @@ def generate_user_items(out_users_filename, out_items_filename, in_users_filenam
                                                         'age': 'AGE',
                                                         'gender': 'GENDER'})
 
-    users_dataset_df.to_csv(out_users_filename, index=False)
 
     return users_df, products_df
 
@@ -367,5 +363,5 @@ def generate_interactions(out_interactions_filename, users_df, products_df):
 if __name__ == '__main__':
 
     logging.basicConfig(level=logging.INFO)
-    users_df, products_df = generate_user_items(out_users_filename, out_items_filename, IN_USERS_FILENAME, IN_PRODUCTS_FILENAME)
+    users_df, products_df = generate_user_items(out_items_filename, IN_USERS_FILENAME, IN_PRODUCTS_FILENAME)
     generate_interactions(out_interactions_filename, users_df, products_df)

@@ -1,1898 +1,2609 @@
 [
     {
-        "id": "7a185f62-f3d1-495c-9de8-e76b3aacff7e",
+        "id": "6ab93658-ebe8-4259-9706-2f4006bd368f",
         "name": "2% milk",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "5b1023ff-4c20-46b5-b3c3-f9f787a85c19",
+        "id": "e0ce22f5-b15d-4568-996d-826a00b0ae32",
         "name": "adobo sauce",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "96b400cd-6abd-43a2-8509-5d74a3bee087",
+        "id": "c3722e4d-966f-4b9a-b69f-2755ae066e25",
         "name": "agave",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "b99f108e-e76a-4b53-94e6-20f4c1beba80",
+        "id": "ed3a8d13-c3ba-4727-b752-030b729d1dd6",
         "name": "all purpose flour",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "c7128d07-4416-47e2-bee8-8975b09cb0b5",
+        "id": "28dceda4-c0a6-45f5-b6e0-c49d997dedd1",
         "name": "almond milk",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "e6c318ee-c15d-4f63-98e7-395f264355e5",
+        "id": "433f35d2-0225-4595-84ee-48a40d578aaa",
         "name": "almond oil",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "3d91cfdc-6a60-4ae6-bd42-7e616456dd41",
+        "id": "ea7b09b8-b920-4d21-97ea-a0f46d191fc1",
         "name": "annie’s worcestershire sauce (or salsa lizano)",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "cb4be88c-6360-4e45-8e83-65439933b483",
+        "id": "e700acd5-27c2-4e61-b4dc-b786bb350851",
         "name": "apple",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "13e9d097-b484-49a6-a0a1-20156f968e05",
+        "id": "6decc433-2af3-4ddf-9e7c-ded10dee6df1",
         "name": "apple vinegar",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "406ff208-5fa9-4224-9107-ee263082ca58",
+        "id": "2f2162cd-90ff-4786-8779-9d13756c12b6",
         "name": "applesauce",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "2643f0b2-bb10-4255-a3d1-b81f0ea56dac",
+        "id": "83aa0084-191c-4c85-903b-5e802e841a14",
         "name": "artichokes",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "cee726d2-18cb-4eb2-82d1-863e70e33ae5",
+        "id": "59c4f3a2-a3a7-46bc-a633-39d5abb0d85f",
         "name": "arugula",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "8459a0c3-c8c5-45be-bd89-5d12836c1d95",
+        "id": "576089d0-e1f0-468b-abe6-2ae4d20fb12e",
         "name": "asiago cheese",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "8ba8f3e9-57bb-4b2a-82bd-42a3514c9565",
+        "id": "5dbaa560-11b1-4a50-a731-ab89eca8c536",
         "name": "asparagus",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "7d1979a7-d486-4848-b1c3-1dc19a598e52",
+        "id": "f64160e0-80bf-490a-b91d-3e3de476deca",
         "name": "baking powder",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "d30d13c6-89a3-4acf-87cd-72ebd18449b8",
+        "id": "007c5925-aa09-4c46-af42-88b0dc3d05ae",
         "name": "baking soda",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "1604778a-1bc0-4f72-8c06-e83ac254d731",
+        "id": "0a8c15b6-fa75-4665-9442-6a5d04006177",
         "name": "balsamic vinegar",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "026dc75e-1620-4f99-9ad6-70214522baf0",
+        "id": "82b6134b-8a75-4c82-8f74-4cc31b33d65f",
         "name": "banana",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "bb4c2d9f-b60c-4a2b-aee7-b90abd659149",
+        "id": "486d0dac-efe2-42a4-b717-170205d235a4",
         "name": "barley flour",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "e962bbd4-7d81-426b-9ba3-695d15c8c863",
+        "id": "fbbcb485-6438-498d-a04f-baa6a5e46692",
         "name": "basil",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "3dfa598a-3eeb-4bb8-9a25-887b8fb896d4",
+        "id": "290221ce-3816-4e41-b590-b70baedcf415",
         "name": "beets",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "ab423577-f5a3-4f2f-80bd-99996d4b254c",
+        "id": "e8579f34-5960-48be-9eb2-9e8263747702",
         "name": "black beans",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "04739025-1894-44c3-911f-50fc5d397b0b",
+        "id": "9b12d760-94ae-43d8-beda-698a03d6134f",
         "name": "black pepper",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "dcdbda2a-faa2-4789-9a2c-997ab887a866",
+        "id": "386cf454-8709-457b-b60c-ca20609952ce",
         "name": "black raspberries",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "058af401-56d9-4c5a-9443-3adfa2faf980",
+        "id": "ed850409-6684-4563-8032-974f972872cd",
         "name": "black tea",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "be45fa20-8583-41c3-9b91-c188fbd7a445",
+        "id": "68a7c766-75a6-4c52-a269-dff3dd357f15",
         "name": "blue cheese",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "c1ea9c5b-b66e-4652-8d6c-cf9a630408b1",
+        "id": "becd044c-9274-4121-a6f7-d047c794b10e",
         "name": "bread",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "f5b8d7a8-df36-4fd0-83d0-2fe1bf4a4388",
+        "id": "8f80e33f-9582-4d0b-8497-e7d552ed8967",
         "name": "bread crumbs",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "ffedbeb4-3368-4480-b9fb-c3939068e62b",
+        "id": "a37c93bd-7fed-4932-9af6-5dc743945786",
         "name": "broccoli",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "2427fc5d-87cf-4209-af86-5724402d1536",
+        "id": "3ccfb1cb-ce4b-4606-b57a-16e4d1201b2b",
         "name": "brown rice",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "4508f8a6-0b83-484d-bd83-3cc7ff33c057",
+        "id": "4a415649-636e-40da-9554-482294e2e822",
         "name": "brown sugar",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "8d30632e-1bc9-4b6c-8551-97143e8aa54e",
+        "id": "7d921d15-e48c-40c8-8f3c-bc87111c38d3",
         "name": "brussel sprouts",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "90b7f658-bc65-4517-9455-8836926524b9",
+        "id": "bab885c0-ee37-4cc2-9cf2-eff0f9b09410",
         "name": "butter",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "33b3fe7d-b10e-41a9-8273-2a599b2ef8bc",
+        "id": "70de836d-587a-4922-9fdf-a1de37ecec37",
         "name": "buttermilk",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "a73254dd-4de7-4bc6-9519-00eb87993471",
+        "id": "acaac40b-b6c8-4f1f-9077-0877014cc800",
         "name": "butternut squash",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "cbab7a3b-1369-427b-94eb-7292337ff012",
+        "id": "5b20428a-2294-452f-b545-f243166abfe5",
         "name": "button mushrooms",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "e516334f-cb67-47f0-a743-9d75483113d9",
+        "id": "a0e467e8-1883-461f-91e2-dff3565d1afc",
         "name": "cabbage",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "f6f3e7dc-f31c-4e6c-989c-f95b366893ec",
+        "id": "39957fec-27b8-4009-9ce3-1e5f44ea82bc",
         "name": "can artichokes",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "dd82e545-c933-49ad-80bc-590e48dc2148",
+        "id": "597439fa-517b-4585-943f-995a7152449a",
         "name": "can black beans",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "c400a0a2-c6cb-4316-b134-a46c3925715c",
+        "id": "95c759ae-52b6-42a0-916d-7343198e5a47",
         "name": "can diced tomato",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "69459546-5c78-49a1-8b93-be0c3d05ca11",
+        "id": "ac754e9b-b0cc-4edb-869e-46bf51321ae0",
         "name": "cane sugar",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "e27bcb36-3769-4366-8d0c-31f0a84aaf5c",
+        "id": "a7243afe-23c1-4340-ba45-b6cfb6e74885",
         "name": "canola oil",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "a6841297-c09c-459b-b38b-4d6394736922",
+        "id": "0c9d6615-588d-4b39-b73c-3b08313da84f",
         "name": "caramelized onion",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "0068f66e-bbbb-4892-8226-02a41f4cc0bd",
+        "id": "932d56d6-2eaa-4a5a-bbda-7ccaaa28b991",
         "name": "cardamon",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "ea1ff0db-5ee3-4964-877a-dcc12ba86296",
+        "id": "5807fc77-933e-4e9e-b639-4c0632644daa",
         "name": "carrot",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "872276f8-97ef-4d31-a188-d1ad5912328d",
+        "id": "c416dafd-5702-452e-93ca-83f0326a32f4",
         "name": "cauliflower",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "a87ed0a0-3cb0-488a-ae99-b71cbf020c92",
+        "id": "434010f5-3698-43f4-a579-086550a71f8c",
         "name": "cayenne pepper",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "95b49c3e-9619-4f67-9fb0-96469b5ba2fd",
+        "id": "df8d0f13-788a-4225-9423-5307923b23e7",
         "name": "celery",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "e1734154-3d6d-45f7-a856-39d4500053bc",
+        "id": "70559ce3-2e9a-4fcf-a0a2-8b2b5302ed78",
         "name": "cheddar cheese",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "63dbe85a-a8e1-4cc5-a007-11ac38f0fbbf",
+        "id": "a0dd989a-591f-441b-94c2-a3e44c5e289c",
         "name": "cherries",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "f3879243-4217-41f2-ae0a-4ebc68ed9126",
+        "id": "c118283f-c2a9-40c9-8d64-421358b5750c",
         "name": "cherry",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "46ca4d14-2e9f-4819-b3ab-59b212de93f0",
+        "id": "02c13bd6-016e-42a1-803f-70ffd02f86aa",
         "name": "cherry tomato",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "7734d93e-70ae-4610-b028-709aaf854829",
+        "id": "e129b5ab-c527-46ed-b692-5b58a013b9a8",
         "name": "chicken broth",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "640053e2-4d5b-4d91-acf5-33fcf13958fe",
+        "id": "2c7bde98-2163-4fd7-8676-22f8afea755e",
         "name": "chickpeas",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "0cfececb-03c2-4beb-9a87-158f618b58ae",
+        "id": "bc47fa48-4408-4cf8-9bf7-efb0753c8de8",
         "name": "chipotle pepper",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "dbdf72fe-457a-4cb5-b4ea-facee8903f16",
+        "id": "51be7203-54e0-4ce9-bc09-100553b77844",
         "name": "chipotle powder",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "c7270fff-38c9-4798-89f7-1b63e6222c31",
+        "id": "c10bb21e-9c11-4cae-af63-36a3c4e2ec01",
         "name": "chocolate",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "220bd2ba-07d6-4da0-943c-928345d30cf5",
+        "id": "12c47c3c-95a6-4718-badc-32c44e7c200e",
         "name": "chocolate chips",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "6379be78-6252-4fc6-aacf-5aed3fc01597",
+        "id": "117fbfc2-1c87-4aa3-ab5e-69f271d214b0",
         "name": "cilantro",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "89f80e43-1246-499b-a36d-ca6169ff90aa",
+        "id": "edf2d782-7eb5-4de5-9b3c-d13e9cfb1bb8",
         "name": "cinnamon",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "bb857269-3ba5-4b50-846b-03e513b3b352",
+        "id": "d1382dd6-2b9f-4587-b4a0-5adda6785e44",
         "name": "clove",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "667866ab-63fd-48fd-b223-042cb0c0c6dc",
+        "id": "8a5c0278-413c-416a-8634-cdd8b8a14d98",
         "name": "cocoa powder",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "7fefa7c3-abe2-4217-a19e-1f0650c479dc",
+        "id": "9c58d9f4-11d1-41ce-ba2e-940a8e26aeee",
         "name": "coconut",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "def99738-3803-4a10-b3ff-1e9c3d0b4fbe",
+        "id": "a7d13f9c-eba2-4b25-b946-91116a5ed42f",
         "name": "coconut flakes",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "a8a18701-da4c-41e6-bccc-7ab219b280e1",
+        "id": "545760b5-0713-450b-8eee-5949c8d2611c",
         "name": "coconut milk",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "4671ca11-4141-4842-bc1c-4f6427d25dd7",
+        "id": "b99ba65a-344e-458f-9feb-9390263556f1",
         "name": "coconut oil",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "0d077717-f3d8-45b8-87df-0006d1d8ed3e",
+        "id": "7242e778-0696-4c93-9303-bdf7910cf22a",
         "name": "colby jack cheese",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "a32195d6-7a17-4293-93cc-87cd065e0d43",
+        "id": "bee0fd0b-eb77-443f-9719-805aee03cc1a",
         "name": "condensed milk",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "a4a78e6b-1a96-4d96-8649-75ed6bd1d925",
+        "id": "2204ebfe-d8b1-48f0-bc91-972972df3235",
         "name": "coriander seeds",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "66230eb0-811e-40d9-92fa-8ce48a196466",
+        "id": "95f292ff-8566-4488-b3cb-5c83e8cc8346",
         "name": "corn",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "4d7f32cf-3bcb-4291-8783-a31e232c8383",
+        "id": "c75ef3e2-8b6f-4bbf-b8ee-45646f3c8dfc",
         "name": "corn squash",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "2cc5b53e-eca6-4ba1-b421-28abc12f9c45",
+        "id": "71e13d3f-264f-4545-b0db-dfeb5e63d221",
         "name": "corn tortilla",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "188fec27-8822-45f4-8692-a5c6e7ee1ace",
+        "id": "3fed13dd-d35d-42dd-a19d-9fc16fb8a3ef",
         "name": "cornstarch",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "18c810b3-b708-4742-b3f2-2452dcf580be",
+        "id": "762f6e94-8dfc-4315-afba-5584aa11b59f",
         "name": "couscous",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "e24a079f-1cc2-4d5f-a7d5-37ffb2940ad0",
+        "id": "d15d2bb4-7d4d-479f-8350-633f8e592658",
         "name": "cream cheese",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "da5560b0-3419-4d36-b99a-9e7f73609a69",
+        "id": "87eb987d-e3fe-4ca0-a4bc-20242eb62ef9",
         "name": "cream of tartar",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "53570fae-5e77-44ca-a365-001f9077b947",
+        "id": "8ff3a6ab-3505-4d6f-85c5-bc2a22b04ce4",
         "name": "cucumber",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "e13101dc-b7c3-4ffe-8c8a-4ef80fd281f3",
+        "id": "060bbc62-d13d-4187-bd48-0b2eb1cfc3a3",
         "name": "cumin",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "226e56cc-e8be-4116-87bf-1e1244f654ee",
+        "id": "ce7f7e83-06bf-4091-8078-816b1e9c759c",
         "name": "cumin seeds",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "721ee7ff-d566-4dab-9e38-f2a1f1bb786f",
+        "id": "b740be36-893e-42c8-877c-d242230c7d61",
         "name": "curry powder",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "23a59fa6-1b58-4a27-9ebe-74d8a3bc6c66",
+        "id": "d019f847-c9f6-4f8f-b9d4-04bb3cd3f922",
         "name": "dark chocolate",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "2f48bdf0-0fe7-4f73-880e-6ee4089b2d2d",
+        "id": "1205e3ef-cda2-4968-a24f-47455bf046fe",
         "name": "dried basil",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "cc97573c-8020-4b08-a2b4-2aa137ba7a35",
+        "id": "6d858d0f-0cf3-4dc4-a66f-bbee08d28155",
         "name": "dried black eyed peas",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "5c2fbb15-b5ff-4b46-b0aa-68de7194b0d7",
+        "id": "8a6a062d-89b8-4cc5-9dfd-1a7c94158db2",
         "name": "dried chiles",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "45ca3d8f-c524-4663-a3e0-6867d7dd14f2",
+        "id": "2b2fd12a-b9c4-4a27-a3c7-fcd96f13efa0",
         "name": "dried figs",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "d064960f-f86e-4e74-b4c3-1962f7cbe92d",
+        "id": "9bb35fae-98c9-417d-bb75-cf938ae69c1f",
         "name": "dried rosemary",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "2de70989-9ed8-4d6e-96dc-2c231e9325bc",
+        "id": "dcf3ef1e-fa2b-43e1-82de-b5689eb299df",
         "name": "dry white wine",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "10e4907f-5f40-47ce-8e72-cadbc3b152d1",
+        "id": "bb99b791-96fb-4efd-a0d2-566c44043585",
         "name": "ear corn",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "70c7f6c6-7f4c-4296-b92f-cc989be61ddb",
+        "id": "ddca3ed0-6309-4620-8331-a7932d98735a",
         "name": "egg",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "ecba44f6-43e1-48e2-b069-5ea30e88ea94",
+        "id": "d486b094-9cdc-433a-ba56-560b6a6a99c5",
         "name": "eggnog",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "b2f6d8c9-a5fb-4b03-aeab-5b25688b7118",
+        "id": "5aab9677-84ce-42e4-b215-f1696185009e",
         "name": "farro",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "f7fe5a50-95bc-4ea8-9321-f3e9bb050325",
+        "id": "f8abd828-ddba-4ecd-9f13-d077c589da0c",
         "name": "feta",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "6925519a-eaf0-432f-aa06-4f196eb61270",
+        "id": "9892af8e-a2fa-47f7-afed-e4067c060477",
         "name": "flax seed",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "6aa8a04c-d251-42f8-9321-26a4570d0f27",
+        "id": "eb303d85-6012-4a7e-9f5e-09f471e5a68a",
         "name": "flax seeds",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "00f0c66b-fc3b-4b95-bced-50377dc79e18",
+        "id": "4decbea2-98d2-436f-bb76-1ee6808c4d62",
         "name": "flour",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "8d780274-97ad-4675-ab9f-05f2b46c93ec",
+        "id": "e199a17d-4cde-4f5c-90ca-2e55b8be56b0",
         "name": "fontina",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "e34d87f2-d307-46e8-b6b7-821187fa5bf7",
+        "id": "a687a51f-37fb-40ad-8af5-35e9f94b5d53",
         "name": "fresh basil",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "3b1a57f9-b61b-4e88-81ef-e5e927faa20b",
+        "id": "33d119e0-2871-4a28-b3bd-8670896e9582",
         "name": "fresh cilantro",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "d2d4386f-1606-4988-8619-1590f7a9e06b",
+        "id": "a51e2c09-88cc-4ba8-8f5c-f3810b452cdd",
         "name": "fresh dill",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "56c7b8de-2395-4793-89cb-9a7c576f9a29",
+        "id": "4b64b464-a5a9-4703-904d-a7773801d301",
         "name": "fresh oregano",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "c756fc93-52fe-4342-b0af-6f0b29e54016",
+        "id": "e3af7890-6ce3-4e76-ab44-d1364e182f0b",
         "name": "fresh rosemary",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "fe5c7009-8aab-47e5-97ba-de4e7b10a4f7",
+        "id": "4df598cc-e066-4cd5-a561-9cd17f3ed9e2",
         "name": "fresh sage",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "65ffebd1-7857-4cff-b0d3-0862b2b717fc",
+        "id": "f3f2e1bb-612e-4ed8-adc2-1f9cbaf21265",
         "name": "fresh spinach",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "21aab73b-1840-466a-a6a2-7de332ced0e9",
+        "id": "992f9785-8624-4757-b48e-cfddd3516011",
         "name": "fresh thyme",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "d7560e28-7efc-4b52-9d10-5af18694b035",
+        "id": "4dbebbff-d701-43a0-a31e-dfbe8452c0a7",
         "name": "garbanzo beans",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "d92aecb4-8d65-4354-a8cb-80f06d38b35d",
+        "id": "105d3770-45ed-4437-80f9-c82dc3c200f6",
         "name": "garlic",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "a72d1fc3-f005-4e78-9160-ae976bc676b6",
+        "id": "731ac09a-768e-48e6-b406-0450b01328ed",
         "name": "garlic powder",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "67e6252c-da6e-4625-b9fc-e0ed20b7f096",
+        "id": "2196a8aa-56fe-491c-99c0-b9feb9c24a0d",
         "name": "ginger",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "ac9c5026-212b-46d2-812c-3971114f10cb",
+        "id": "c7faf36d-fb1a-4643-8e55-4cf38067d72e",
         "name": "ginger powder",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "25fd4a68-3604-4c45-b394-98b2920a2890",
+        "id": "1aa8967c-1147-4c7a-af89-6e1cf76af44f",
         "name": "goat cheese",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "8dc0f332-c3b1-4d46-b4c3-aa7fd56e98a3",
+        "id": "eb1e3b92-6256-4165-a30e-3b9c0a7596e7",
         "name": "gorgonzola",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "129aa3aa-7933-4f25-afb5-ef36204ccb82",
+        "id": "b1292461-4f9d-4adc-a263-21c8a0e538c0",
         "name": "gouda",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "50642a52-aab3-4632-8cc9-ed836d6679d3",
+        "id": "e5aeccb0-cab7-4d56-8859-071162178f41",
         "name": "greek yogurt",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "0b0a4203-cb4b-4042-b8ab-500503ee2e4d",
+        "id": "4a2c3ee0-5de2-4c0b-ba45-524cec566420",
         "name": "green onion",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "2c7dda23-768e-4632-9eef-9ad1b504dff6",
+        "id": "2463aa1e-4cf4-46e8-8a08-74e8593222d0",
         "name": "green pepper",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "3f9a3a03-2519-49b6-963d-fd37a73bebdd",
+        "id": "65a388dc-8857-4124-b2b8-2eae1f8a18e4",
         "name": "gruyere cheese",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "bfb62d45-3f56-4843-85e6-6616cef264de",
+        "id": "030410d9-d77b-4cf4-89c6-42b5aa484de0",
         "name": "heavy cream",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "a2fb6e5a-ec27-4426-bee1-9b3bf8f0fd3e",
+        "id": "728eebb8-e8bf-444f-aaf4-e74a09a2bd0d",
         "name": "hemp seed",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "a0497269-4491-4148-a1fc-9b72cd90bbe6",
+        "id": "19e30fb9-b1c1-4bd4-97c8-949ae3221ac7",
         "name": "hemp seeds",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "0dbe7377-422a-48dd-a825-76cbcd0d22e9",
+        "id": "d24c41c1-06fa-489d-bce3-0066470528f4",
         "name": "honey",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "c8ee9495-3fae-4222-a45b-64f10780cce9",
+        "id": "508ecc31-5531-40ba-8546-b217d858d90a",
         "name": "hot sauce",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "9bfa7ccb-1c9c-4483-b6e2-c21f6115e337",
+        "id": "7d0d5649-16ec-4fe7-898e-5bd53a993b82",
         "name": "hulled barley",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "7b312c0b-2ea2-4f5a-b57d-f1781ce3ba05",
+        "id": "29cdc312-916a-43c2-a571-646a99f0199f",
         "name": "ice water",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "d475a076-dd09-49cf-8710-3ba40db8901e",
+        "id": "185bc499-c6ba-47ca-92a7-59775c9b8f8d",
         "name": "instant yeast",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "75bff881-3d8e-438c-9d75-7d2570dfe96f",
+        "id": "b94c97c2-09fe-4eed-8bd4-bb944572e553",
         "name": "jalapeno pepper",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "d760bed0-cc75-4de2-8dcd-983e236db754",
+        "id": "6f120770-541a-4a44-90dc-3959afbfab4c",
         "name": "kale",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "b8ee0e85-dabb-4756-9c9e-8a5cd16aa0df",
+        "id": "4b27408d-a123-437d-9297-1e6d0bfac498",
         "name": "ketchup",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "f3144ee0-6ef0-459d-8364-1a7d43e6fd16",
+        "id": "a8e484f6-ce86-40d6-88f7-045e20dd2a83",
         "name": "lemon",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "c428b028-572b-4297-ba12-941cc12631e7",
+        "id": "f46d1bc9-1f1e-474f-a29b-5c856698cc92",
         "name": "lemon juice",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "e0bcccda-0289-4e44-a865-f6710edb026c",
+        "id": "67074ae4-a98e-4514-b870-b7c604301c2e",
         "name": "lemon pepper pasta",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "7cb9799f-5ce6-452c-b06b-de7282286581",
+        "id": "5c060a29-1279-4c75-8583-fdedd62a4c3e",
         "name": "lentils",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "5988dd6d-d234-4439-8ea9-65e1b8ac9f38",
+        "id": "54ec8faa-4a5a-4c2e-86c3-623802ead788",
         "name": "lettuce",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "ab2f72e8-0519-461c-b2cf-15617e48d9a0",
+        "id": "ec857fad-5bd1-4313-9074-bdde1e3761f7",
         "name": "lime",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "8a6f6cc2-050e-48e6-aac9-552abf5cd7d0",
+        "id": "8a944aae-bd41-4c46-95b2-cb5e6e89aecd",
         "name": "lime juice",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "85fcfa2f-00b0-446e-8ac1-30f7ab44ec0f",
+        "id": "e664a2ca-3a63-4902-8768-726cf6f56563",
         "name": "low sodium vegetable broth",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "9e466ce1-b6e6-4e79-84b5-a29dd207ea79",
+        "id": "512bdf37-b67f-4811-8358-16e3a7b859da",
         "name": "mango",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "90c189f2-81fe-4e04-9710-fc06dd7aced0",
+        "id": "8a7e41f0-bab8-470d-badd-8f927c2d6f54",
         "name": "maple syrup",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "997360d6-bfe4-4b26-84ab-90483848583e",
+        "id": "3af0fc12-a13c-4048-b6d8-113819e75854",
         "name": "marinara",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "4c70b192-fc3b-47b3-bf26-dc25ba9b6fb1",
+        "id": "222ac874-6c98-4c62-87bb-9665e7c2ff64",
         "name": "medjool",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "19af8af3-21df-4560-9332-17d7bc4d2205",
+        "id": "bc417c81-93f7-4a89-a330-b68593c1d978",
         "name": "milk",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "06fb640e-753c-4bba-87c4-38881349c43c",
+        "id": "984b166b-d99f-4b0b-950f-ddaf43e9c7aa",
         "name": "moneteray jack cheese",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "cf03090a-78c6-4707-b0ac-eda89dfcaf1f",
+        "id": "5ad289b2-3cd9-4849-9890-4afe3bf49b3d",
         "name": "mozzarella",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "1c7697b6-e8d3-4c15-be5c-7c7777e19a2c",
+        "id": "c58591cf-a82f-4629-8673-7c471d16095e",
         "name": "mustard",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "ec819f61-88d1-4ff0-b74f-a448e1a1f409",
+        "id": "befebadd-26e8-40d9-b2fb-b9a637d1e332",
         "name": "nuefchatel cheese",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "610972d2-a6fe-4d3c-81fa-887a8c44b9eb",
+        "id": "2b87c8e9-043e-470e-8adf-3e92b38e7126",
         "name": "nut oil",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "6fe4b32b-f887-4a55-88ec-f7a04eed8fb3",
+        "id": "e2731bb7-d25c-47b7-9947-22f5f25c176c",
         "name": "nutmeg",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "093541ac-d642-4f42-9430-94753c04f22f",
+        "id": "7f57a460-854f-4fd1-8dfb-55a098c0bf38",
         "name": "oats",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "0c70c6b0-5a1a-4ff3-ab96-4a77524d7c4b",
+        "id": "9139f3e6-9a4e-4dde-9bc9-1d6abb091c94",
         "name": "olive oil",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "fb8f28ff-d131-44db-ac9c-b015e90ec08e",
+        "id": "757c5f1e-6309-4df7-9146-2dce9af5cfb7",
         "name": "onion",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "92d23561-4115-4460-829e-6a928e6bd1ad",
+        "id": "ea631c95-6e55-410a-9428-274ee4dfcdcd",
         "name": "orange",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "a6630e3a-3f6d-4e5c-8804-77d309602017",
+        "id": "f3e048b7-f137-4f8e-964d-5b47f7170085",
         "name": "orange juice",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "36282c3e-0e9d-4016-a027-06e484cc1af4",
+        "id": "559a4ff0-2a98-41a1-96eb-18b9d2dffeec",
         "name": "oregano",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "4ef67888-08d0-49a9-91b0-705b32ac629f",
+        "id": "c9672f4a-713c-481c-a606-b5a9cdc07108",
         "name": "paprika",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "111a3ab6-ae4a-4973-97fc-4e48c75f7254",
+        "id": "b54b3ea3-a420-40c9-9551-fef59930c53f",
         "name": "parm",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "e7e72691-3c5f-4ba6-b5a5-9bc2d0577ee6",
+        "id": "6745bffc-4b59-4943-9562-05540566a360",
         "name": "parmesan cheese",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "420b12d7-620b-456a-bca1-0d24165165e9",
+        "id": "12109abd-6f43-42f6-8947-8c7f878438d1",
         "name": "pasta",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "c674deed-bf1b-4d79-b6fd-e71f8e20c9df",
+        "id": "80c94b13-5bcf-4c8c-849d-66a89dbadf25",
         "name": "pasta shells",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "d9f8bf1f-e895-4769-8fa1-74af6fc74175",
+        "id": "c2f90fcf-26d1-42d2-8a09-3fb4275e6500",
         "name": "peaches",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "c07b2bf9-d75e-4abc-b237-a67bc0ae6787",
+        "id": "1367bbdb-7df2-4dd0-b19c-b59d15a4e1e7",
         "name": "peanut butter",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "7bdfba9f-d9dd-4de9-935a-3f0e634ed54c",
+        "id": "e0eccf4b-d294-4cd9-a4fa-03000a668e87",
         "name": "pear",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "bb7ddd1c-54bd-4725-bed6-f09fa7ea9a8b",
+        "id": "8cef48fb-1654-4e16-b7de-52930b5d76a1",
         "name": "pecans",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "a8969c1c-5f2d-47eb-b38e-a0042a78abf6",
+        "id": "76f722c8-db07-4708-a01d-a55298362f6e",
         "name": "pepper",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "70f0c516-7250-4ee1-9c45-f017adc70be0",
+        "id": "65d57539-4534-4126-9d33-7a335593545a",
         "name": "pie pumpkin",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "3402df45-498a-4b0e-a305-a686e66a2656",
+        "id": "2067e805-a6a6-49be-a482-e319fb43a245",
         "name": "pineapple",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "156b4363-e903-44f2-823a-6d86764754d9",
+        "id": "3812b3c8-edcd-4ef2-b490-e19164e9cc92",
         "name": "pistachio",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "c469b1db-5b1c-490a-a3c1-d0102a975192",
+        "id": "c87e9d6f-8c97-48d2-8a5b-19696681484d",
         "name": "pizza base",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "467ab6a1-1aae-4ddb-88e4-ee6ff080d0cb",
+        "id": "3b8b1f4f-aad8-4e33-ae7f-b0a5472fe369",
         "name": "plain yogurt",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "2bbefb83-9c1a-48fa-a428-54b0596e64a7",
+        "id": "e8d1f8d0-3f0e-4d42-a593-c3180ff7c3bf",
         "name": "poblano pepper",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "56ac4eed-2c0d-4c79-ad0e-6de7a67fe9ca",
+        "id": "c72a4e39-0184-400e-8269-0cb4dcdcc0ae",
         "name": "popcorn",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "6c89302e-9026-4edf-83b0-10dc0a340baf",
+        "id": "94cbf888-adfc-4a71-b941-3464973a19ac",
         "name": "poppy seeds",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "2deec368-392d-462d-9165-7dea85f6206a",
+        "id": "1f7ce96f-171e-42ff-9e27-ba87aee8e55a",
         "name": "potato",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "8edcfbc6-4099-40c1-9f04-36f13f8f47e3",
+        "id": "bb2d2355-f183-4025-9ce7-c7f84a7e1738",
         "name": "powdered sugar",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "9857b655-7fb3-4514-9694-0b23e9ed1097",
+        "id": "8c249a5f-cd74-4394-92b8-47d217e5b776",
         "name": "pumpkin puree",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "cac61f8e-2177-4fa1-bce8-9951e5403a90",
+        "id": "77c22f54-fcad-4ed1-a568-0fcf026cee18",
         "name": "pumpkin seeds",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "39c16ac4-9f2d-44c9-a6be-9fc35713007e",
+        "id": "e82d0ccd-06b1-4292-84f7-458babdeab91",
         "name": "purple cabbage",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "1cfa4fc2-5d7b-4fb6-8a2d-232776dab923",
+        "id": "c9fcbe40-af31-4bbd-bfc7-232790d4f22f",
         "name": "quinoa",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "6a1d4fa3-db7c-4da9-a954-37e48c3f78c8",
+        "id": "e4b96114-2062-4331-bd85-5d0f632be3d7",
         "name": "radishes",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "71429dcf-3717-41dd-922f-b723304938ec",
+        "id": "46a959b2-9749-4dca-8e8b-54b6ebff158e",
         "name": "ravioli",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "562e58fb-b7e4-49af-9f1e-95d93a2c7896",
+        "id": "5d9cade5-5048-4ec7-8a56-ad3f5a26c4bc",
         "name": "red chiles",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "e36def7d-1cba-443a-840b-869df566bca3",
+        "id": "16c99d49-7730-4104-b67a-ed9d01040e1d",
         "name": "red chili flakes",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "0225c2a6-4521-4ea7-ac35-d2e431b1d6c9",
+        "id": "a6b050fc-bec7-421e-85ae-1672f9f9581f",
         "name": "red onion",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "3cdf952c-9213-4295-aebd-6cc6f9990375",
+        "id": "3914441e-8930-4008-ad0d-96b0ca93b22c",
         "name": "red pepper",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "7e194db2-7787-40bd-b7d5-191ae0e050a1",
+        "id": "cd49b11e-7a36-473a-9d91-ba22defc6336",
         "name": "red pepper flakes",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "b38f0acb-6427-4f25-be2f-8ac7ce6a17aa",
+        "id": "033a9e7e-c07a-4dfa-b42f-10e557fb0ecc",
         "name": "red potato",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "3bd03f6c-315b-4b4e-8098-87deebbb6496",
+        "id": "106c0efc-21e5-4183-b2c9-adc5a8a4865e",
         "name": "red wine vinegar",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "9f0aa96a-910b-4f31-a538-285cbe7326c2",
+        "id": "d4006716-107b-4b39-944b-5a859a3e69af",
         "name": "rhubarb",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "892b1906-95c1-4510-be85-df0c0a55afce",
+        "id": "61f49690-c6d3-4ab7-8d07-5959ae8b0e26",
         "name": "rice",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "ba06e84d-9676-4960-b81a-5e1977973a95",
+        "id": "dd8a821e-74d9-4d0f-ace8-812cd3555904",
         "name": "ricotta cheese",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "c5720b26-b371-4561-a33b-c02061a9c68a",
+        "id": "caec4ffd-9542-4634-aeff-53d387e32b76",
         "name": "rosemary",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "461ba288-2256-4c73-8fd0-0e8ace9832ab",
+        "id": "c7ec3155-84a0-40e4-a053-81e2eedf61d9",
         "name": "rum",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "40763b60-0e25-4426-8c53-2860ef6fae38",
+        "id": "38297b52-89a5-48d6-a29f-1c55208d83e5",
         "name": "rye flour",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "fb71ae62-9f9e-4ab1-9f11-8504b4eb2312",
+        "id": "97e6e1fe-27d6-4726-a89e-4dd07a6a7bb5",
         "name": "sage leaves",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "e64487ac-dd42-484a-a5fb-11e38abd8248",
+        "id": "8a40acf1-5158-462b-abad-6c1dfe7bc474",
         "name": "salt",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "98f78911-1c1d-42c3-87d0-156a28290128",
+        "id": "de87ba44-a53c-4497-9bb1-39a10753f2f1",
         "name": "scallion",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "0b28160e-075c-42ca-bea0-22f394930796",
+        "id": "4ca67eb1-d01f-4fe0-a73e-a870006d5b19",
         "name": "sesame oil",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "8aef2f16-46b0-4dfa-89e1-2952e21ea6eb",
+        "id": "62bc1131-807e-4590-9edb-b1109dc73927",
         "name": "sesame seeds",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "62f6cee9-b1de-4e0b-b736-47a24a39c23b",
+        "id": "23c4a60c-5d53-4004-97c1-98ffd19bdddd",
         "name": "shallot",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "09aead52-e7e1-416a-8b7f-7d0fa7fdbf51",
+        "id": "9afe658a-1e49-46c1-8a72-057c5048fe7b",
         "name": "skim milk",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "5626126a-37b6-4397-867c-eacdb845f648",
+        "id": "ec466e74-046e-4762-9258-28411427076d",
         "name": "smoked paprika",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "3ff14ef4-305b-412a-a1a4-c54715282cf1",
+        "id": "4a488377-a47e-4fd9-aa95-0b497fe295df",
         "name": "soba noodles",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "070d32f7-5268-49ab-adce-05679083e08a",
+        "id": "7f747497-16ce-44c4-aa59-21109e0bf2b2",
         "name": "sour cream",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "c5d24db1-bc8a-41f8-96d2-fb08508e825f",
+        "id": "44305944-6f1b-4b93-866d-419ed34b8e09",
         "name": "soy sauce",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "ef5d3cc1-72ce-4c33-867e-83990dad6e74",
+        "id": "7fbdb3c8-7563-4941-9de0-c7b691fe842d",
         "name": "spinach",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "d2d629bd-5130-4adb-a1a0-7b3db3282354",
+        "id": "aad467a3-0971-41a9-b45f-9aadf9b5c3d5",
         "name": "sprig rosemary",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "e467d94c-6104-45ba-a7aa-a8266e043cdd",
+        "id": "debb9d25-ba12-4b21-93a4-7a90b07448ee",
         "name": "squash",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "2982e186-d2ea-4d4a-80de-02172495d243",
+        "id": "f4579111-4092-4cd9-802d-7e2754d256ef",
         "name": "sriracha",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "dc1b1804-fde5-445a-b895-9d0d81921938",
+        "id": "21d3f37a-ea56-44c2-8cd9-1cb4be16f6ee",
         "name": "strawberrie",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "2e87d0de-422a-4651-ac5d-cdc2fe2320f8",
+        "id": "fa7dc2c8-161b-4eb6-b5ac-ac08769c41f8",
         "name": "sucanat",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "382473fa-74b5-4493-97ca-0df0afb748b0",
+        "id": "c9997695-0023-4130-95d1-fe443c876b81",
         "name": "sugar",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "b65e5d9c-0e80-47cf-be53-bada02571368",
+        "id": "f51f56ca-a4df-4a9e-b07b-83e0df08abe7",
         "name": "sunflower oil",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "b58f308b-5e6b-4954-bfd5-8abeaa1b7b34",
+        "id": "fe315151-3ded-4eea-8dc4-8ec5d3c68617",
         "name": "sunflower seeds",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "a8708f14-22d4-4dbc-87bc-a7399ec9e49f",
+        "id": "0c031126-e7ab-4f06-b6f5-f2af0e2fdd8c",
         "name": "sweet potato",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "8564045f-e1b1-4bf5-b08d-dd5b1f5269b3",
+        "id": "c03c3c74-55ea-4222-925f-6f78e9d87136",
         "name": "swiss chard",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "82357774-dc95-4daa-918f-af4fd7b8fa02",
+        "id": "343f90ba-37bd-46d0-bd96-f7beedef7106",
         "name": "thyme",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "6ccbfd0b-458c-487c-b6e7-9ee17991245b",
+        "id": "f4333805-c0fd-4392-a78e-608993589f9d",
         "name": "tomato",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "cf510e9b-a8d8-4a9d-8876-8d5922319d41",
+        "id": "c87ad5df-ee08-42b2-b8b1-02c37d4c80d2",
         "name": "tomato sauce",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "86a1081c-ef17-4637-88b9-06e4f9589f80",
+        "id": "94006f22-c872-450c-b55d-7e0c345e6f78",
         "name": "tortilla",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "a9bf6b73-f7d8-472c-9bba-6608f7cbe8a9",
+        "id": "5895f877-3815-4ab1-9dca-60dba7830a2d",
         "name": "turmeric",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "913a8d67-dea8-4098-86d4-77e182b0e62c",
+        "id": "cf5f46af-3b0e-463b-acdb-18d14cdfed39",
         "name": "vanilla",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "b09c91e3-4de4-4c8b-8ba0-78df53ac92ea",
+        "id": "41f31fce-db4e-4ff3-9325-831de2367e1f",
         "name": "vanilla bean",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "65a80d18-0fad-40f2-aee5-12bec9bc0765",
+        "id": "9e06d039-5caa-4f4c-a947-ec3fa5b1dd90",
         "name": "walnut",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "90d332d9-8657-44c9-b5b7-f1c302a5cee2",
+        "id": "d69cca7f-0224-4c24-968b-5541bc66f810",
         "name": "walnut oil",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "4fa422de-1659-4c39-a1a0-a4de1dba33ec",
+        "id": "135a2891-d498-4251-8824-24f99d0930c7",
         "name": "water",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "6ff7943e-3a3e-4055-aeed-2e29d25e3f88",
+        "id": "b6675921-d015-43f1-b4c9-b8e99ec3830b",
         "name": "wheat flour",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "81ef42db-513e-40d9-96dd-2f7fcee936a7",
+        "id": "981295eb-6b18-4e64-9384-7fe765c9d5ef",
         "name": "wheat germ",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "6f155589-585b-4ae4-b918-95cdedc133c5",
+        "id": "424bcc16-56a3-4bd5-88f3-c852eeb06a95",
         "name": "white onion",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "43975602-49ab-41c9-8c35-0c3c531023f1",
+        "id": "adc31928-e459-42fa-9f07-968e235db1a5",
         "name": "white wine",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "36cef71a-c90c-4cb1-8755-7a307d4dbb84",
+        "id": "42071e41-2caa-403a-8060-ac054a000a59",
         "name": "white wine vinegar",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "cb399cb6-7a94-499d-b12c-1132c345a3ae",
+        "id": "90050f31-d242-4630-9783-68089f17aa6b",
         "name": "whole wheat flour",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "993ec449-846c-4b49-90f7-53142243788d",
+        "id": "61c3b6ce-a3da-4a89-b7dc-ffa4be34ed61",
         "name": "whole wheat tortilla",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "5038a1de-2ced-417a-becb-0582b78f93e6",
+        "id": "8f490285-5b5f-42b7-81ef-5ccfc4bdfa0e",
         "name": "wine vinegar",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "10f80b13-15ff-49fa-9693-9865f7041858",
+        "id": "c49559bd-278e-40a5-b618-ffe0b962df5a",
         "name": "wonton wrappers",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "3eb8a296-e903-4191-a529-4aa40711e0d1",
+        "id": "67d925df-a585-47aa-a77b-484b28e4d75b",
         "name": "worcestershire sauce",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "fd1f9030-2b0a-4b03-9b52-c63749a38328",
+        "id": "df5a0583-e1ad-4fc7-af06-4d970526220a",
         "name": "yeast",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "533ecf96-c233-451b-a1e2-15a0537f44e7",
+        "id": "7dd66aab-e285-4818-bb7f-30f27e7f9ddf",
         "name": "yellow onion",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "b1d5d736-6ec5-4737-95e5-3ca68af46b9d",
+        "id": "daf25985-0f11-411e-9895-cc9641bd9a7d",
         "name": "yellow squash",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     },
     {
-        "id": "ad40c186-cb2f-4c06-bf62-2ded793d3f31",
+        "id": "cc70a7b2-a768-41bd-a3a1-dff01a062dce",
         "name": "zucchini",
         "amount": 1,
         "measure": "",
         "image": "",
-        "description": ""
+        "description": "",
+        "category": "food",
+        "price": 10,
+        "gender_affinity": null
     }
 ]
